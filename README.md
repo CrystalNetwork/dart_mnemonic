@@ -4,12 +4,43 @@ Reference implementation of [BIP-0039](https://github.com/bitcoin/bips/blob/mast
 
 ## Features
 
-Support for all existing [BIP-0039 Wordlists](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md)
+Support for all existing [BIP-0039 Wordlists](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md).
 
 ## Getting started
 
+### Use this package as a library
+
+Depend on it
+
+Run this command:
+
+With Dart:
+
 ```sh
 dart pub add dart_mnemonic
+```
+
+With Flutter:
+
+```sh
+flutter pub add dart_mnemonic
+```
+
+This will add a line like this to your package's pubspec.yaml (and run an implicit `dart pub get`):
+
+```sh
+dependencies:
+  dart_mnemonic: ^0.0.1
+```
+
+Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
+
+### Import it
+
+Now in your Dart code, you can use:
+
+```dart
+import 'package:dart_mnemonic/dart_mnemonic.dart';
 ```
 
 ## Usage
