@@ -46,7 +46,11 @@ class Mnemonic {
   // mnemonic seed hex string
   String get seedHex => HEX.encode(seed);
 
-  // Construct mnemonic
+  /// This function is used to generate mnemonic.
+  /// It is used to generate mnemonic from entropy.
+  /// [language] is the language of the mnemonic.
+  /// [passphrase] is the passphrase of the mnemonic.
+  /// [length] is the length of the mnemonic.
   Mnemonic(
       {this.language = Language.english,
       this.passphrase = '',
@@ -57,7 +61,11 @@ class Mnemonic {
     entropy = generateEntropy(ent ~/ 8);
   }
 
-  // Construct mnemonic from entropy hex string
+  /// This function is used to generate mnemonic from entropy.
+  /// [entropyHex] is the entropy hex string.
+  /// [language] is the language of the mnemonic.
+  /// [passphrase] is the passphrase of the mnemonic.
+  /// [length] is the length of the mnemonic.
   Mnemonic.fromEntropy(String entropyHex,
       {this.language = Language.english, this.passphrase = ''}) {
     // check entropy hex string is valid hex string
@@ -76,7 +84,9 @@ class Mnemonic {
     entropy = hexToBytes(entropyHex);
   }
 
-  // Construct mnemonic from mnemonic words in sentence
+  /// This function is used to generate mnemonic from sentence.
+  /// [sentence] is the mnemonic sentence.
+  /// [passphrase] is the passphrase of the mnemonic.
   Mnemonic.fromMnemonic(String sentence, {this.passphrase = ''}) {
     sentence = sentence.replaceAll(RegExp(r'[\s+,，]'), ' ');
     sentence = sentence.trim();

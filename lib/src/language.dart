@@ -36,6 +36,7 @@ enum Language {
 
   String get delimiter => this == Language.japanese ? '\u{3000}' : "\u{0020}";
 
+  /// This function is used to check if a word is valid.
   bool isValidWord(String word) {
     return wordlist.contains(nfkd(word));
   }

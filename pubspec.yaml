@@ -1,6 +1,6 @@
 name: dart_mnemonic
 description: Reference implementation of BIP-0039 for the Dart language. This library is used to generate crypto wallet mnemonic phrases and derive HD wallet root seed from those phrases.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/CrystalNetwork/dart_mnemonic
 
 environment:

@@ -8,22 +8,27 @@ import 'package:unorm_dart/unorm_dart.dart';
 import 'language.dart';
 import 'pbkdf2.dart';
 
-// convert bytes to binary
+/// This function is used to convert bytes to binary.
+/// It is used to convert entropy bytes to binary and
+/// to convert the sha256 hash of the entropy to binary.
 String bytesToBinary(Uint8List bytes) {
   return bytes.map((byte) => byte.toRadixString(2).padLeft(8, '0')).join('');
 }
 
-// hex string to bytes
+/// This function is used to  hex string to bytes.
+/// It is used to convert entropy hex string to bytes.
 Uint8List hexToBytes(String hex) {
   return Uint8List.fromList(HEX.decode(hex));
 }
 
-// convert binary to int
+/// This function is used to convert binary to int.
+/// It is used to convert the sha256 hash of the entropy to int.
 int binaryToInt(String binary) {
   return int.parse(binary, radix: 2);
 }
 
-// generate entropy
+/// This function is used to generate entropy.
+/// It is used to generate entropy for the mnemonic.
 Uint8List generateEntropy(int strength) {
   final rng = Random.secure();
   final bytes = Uint8List(strength);
@@ -33,7 +38,8 @@ Uint8List generateEntropy(int strength) {
   return bytes;
 }
 
-// entropy checksum
+/// This function is used to get entropy checksum
+/// It is used to get the checksum of the entropy.
 String entropyChecksum(Uint8List entropy) {
   final entropyLength = entropy.length * 8;
   final checksumLength = entropyLength ~/ 32;
@@ -42,7 +48,7 @@ String entropyChecksum(Uint8List entropy) {
       .substring(0, checksumLength);
 }
 
-// entropy to mnemonic
+/// This function is used to generate mnemonic from entropy and checksum.
 List entropyToMnemonic(String entropyAndChecksum,
     {language = Language.english}) {
   final regex = RegExp(r".{1,11}", caseSensitive: false, multiLine: false);
@@ -53,7 +59,7 @@ List entropyToMnemonic(String entropyAndChecksum,
   return mnomonic;
 }
 
-// mnemonic to entropy
+/// This function is used to compute entropy from mnemonic.
 Uint8List mnemonicToEntropy(List<String> mnemonic, Language language) {
   mnemonic = mnemonic.map((word) => nfkd(word)).toList();
   final list = language.wordlist;
@@ -72,14 +78,16 @@ Uint8List mnemonicToEntropy(List<String> mnemonic, Language language) {
   return Uint8List.fromList(entropy);
 }
 
-// mnemonic sentence to seed
+/// This function is used to generate seed from mnemonic sentence.
 Uint8List mnemonicToSeed(String sentence, {String passphrase = ''}) {
   sentence = nfkd(sentence);
   final pbkdf2 = PBKDF2();
   return pbkdf2.process(sentence, passphrase: passphrase);
 }
 
-// check mnemonic language
+/// This function is used to check mnemonic list language.
+/// If the mnemonic list is not in any language, it will return unknown.
+/// If the mnemonic list is in more than one language, it will return unknown.
 Language mnemonicLanguage(List<String> mnemonic) {
   for (final l in Language.values) {
     final list = l.wordlist;

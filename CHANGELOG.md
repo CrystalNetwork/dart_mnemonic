@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Add api documentation
+
 ## 0.0.3
 
 * Longer description
