@@ -1,6 +1,6 @@
 name: dart_mnemonic
 description: Reference implementation of BIP-0039 for the Dart language.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/CrystalNetwork/dart_mnemonic
 
 environment:
