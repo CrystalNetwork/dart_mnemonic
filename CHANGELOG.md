@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Longer description
+
 ## 0.0.2
 
 * Update readme

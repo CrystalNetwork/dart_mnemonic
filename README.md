@@ -30,7 +30,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```sh
 dependencies:
-  dart_mnemonic: ^0.0.1
+  dart_mnemonic: ^latest
 ```
 
 Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
