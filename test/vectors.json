@@ -1,0 +1,1428 @@
+{
+    "invalid_entropy": {
+        "hex": [
+            "92dc3a764oo5e75b472b36edd15eb6dc",
+            "i9b3719a2341508822929d28a897d5b3dc6236aa",
+            "19b3719a234150882dc6236aa2929d28a897d5b3dc6236@@",
+            "|c6236aadc6236aa19b3719a2341508822929d28a897d5b3dc6236aa",
+            "b37822929d28d5b3db37822929d28d5b3dc6236aa0<>2dc62c6236aa0882dc62"
+        ],
+        "length": [
+            "142981a53415bf732f3aaaceba8efaf",
+            "42981a553415bf32f3aaaceba8efaf",
+            "2981a553415bf732f3aaceba8efaf",
+            "81a553415bf732f3aaaceba8efaf",
+            "123123b37822929d28d5b3db37822929d28d5b3dc6236aa0232dc62c6236aa0882dc62"
+        ]
+    },
+    "mnemonic": [
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "barbier cigogne ふうふ へこむ 唯 前 したて lunes prueba blindado てみやげ espelho",
+            "passphrase": "O",
+            "seed": "c8efdd78c7f3c9c3b6a270c4247e12080f6fbdaba446905c670bc2a8206740b94f4627da7bb369518cff4dc862f54ef958c5cfc98208bb1006e0732d17703fa6"
+        },
+        {
+            "language": "english",
+            "entropy": "b8d2beeae6a2809b1046154e570a9cfb954578bb",
+            "mnemonic": "rhythm nominee rival snap chimney eternal donate section exact reunion poet warm february rough unhappy",
+            "passphrase": "qbJHW",
+            "seed": "e058a0b399541c9f216d660f25f5707cfad84e1915e2bd8c87314acdd5ede65fc619551a3bd9df4cfee2d5ee4cfe6d1c1d751e671b27dea0a7f803da5077a93d"
+        },
+        {
+            "language": "czech",
+            "entropy": "90da2e3a28989784b7fbd7eb2f0f450a7fb05df73de998cd",
+            "mnemonic": "palanda telefon otop korpus omezit slupka vagon norek vyhodit nepokoj tekutina chodba zmatek gotika uran silnice plaz mokro",
+            "passphrase": "uYZggSMtyDinAs",
+            "seed": "5802585e52e502f97a82df7525a2a7ff74ef3d1153668314eecdc6f4ea96d0acb9deb0c956881367abe2bf7faf6d71fc20e99046a60f5b683da01857876318b0"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "379fe5191f05ee65821c6bf20e2a0f172dc0b746ec3cb43559a150d9",
+            "mnemonic": "划 妨 士 严 散 委 着 谢 冯 套 户 研 扶 村 山 圈 智 循 乎 伏 园",
+            "passphrase": "vjOjZaoKvzpggQoK",
+            "seed": "e5f0702a6eb639a31cc48de5e46b1b9124925fbd89b6441b6dcc8b9aa54de19fb37648501a79fc1c4cf7d835b01e48314dbf49ba006df3e071ef71e141ec332d"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "4beefc8b5e63569b8506182cb9f73978ba1d283d1a353c252a0cc316b86005e4",
+            "mnemonic": "堅 凱 導 票 歷 富 條 乳 今 芯 泉 貪 軌 玻 刮 固 火 達 瓦 彩 答 低 展 禁",
+            "passphrase": "DdIHUgWjZvoUdlp",
+            "seed": "b35394264dafa6384f9ff4da95b202dba9b562e75fd5e221e886ac98af88d0eec0023cf0ccf70b973b66098bb3802c4a42b0817f86193592026eee5c1836b4c8"
+        },
+        {
+            "language": "french",
+            "entropy": "046313c37e3c754b6f4eef816dd52e8a",
+            "mnemonic": "acteur balcon trombone visuel rasage noirceur poivre situer infliger furtif durable audible",
+            "passphrase": "NDzWUS",
+            "seed": "91d2b069d37ecf55c9223d1073e4ea1e1a495f22d64975de5e54c5f962ad3ab965e3b2082480af294887945b993f608e3700f641540317c435437a1b8d152ce9"
+        },
+        {
+            "language": "italian",
+            "entropy": "55a1b194266d1cadf9ed4791e32b230b7bb36be4",
+            "mnemonic": "formica anno illogico evoluto slogatura fratello tizzone privato orafo barbaro segnalato azoto roccia rilevato onere",
+            "passphrase": "PCS",
+            "seed": "81d9ec648ce94fd7d128ee600a6bfdbf365a7b2a06114e21fd992df04d237960ba9c6321498861ae9ee8d7e2e127141723b2c22d44c68d4a1ddf283da04d95dc"
+        },
+        {
+            "language": "japanese",
+            "entropy": "99d7d8f986ff51356b8e0c6095771e9fa4e9e818d66d7a4a",
+            "mnemonic": "つづく　のりもの　くみたてる　いのち　よてい　つのる　なまみ　はかる　さんせい　ないす　はんだん　くろう　こくご　よくぼう　したぎ　ひはん　せんてい　こりる",
+            "passphrase": "PeBhzLlMBv",
+            "seed": "32941a3cfc6385f92ef8504bb04e979c864f5e72998b09a84dea91def1372daeb7740048d731460f2b8ec6c03d0e813fabf11a93c9780f2552b5230359450a4e"
+        },
+        {
+            "language": "korean",
+            "entropy": "c5935ecbb8f566a10e3bc7258bddf043ad9d4a36ac3df719555decea",
+            "mnemonic": "주인 외할머니 잠자리 수상 부정 별명 말씀 시부모 남산 사실 식빵 약국 출연 이곳 충분히 약점 현지 지붕 북한 출연 인기",
+            "passphrase": "FDc",
+            "seed": "c891650817ed0d9dcc31e9f8c57c4f99998977272a98e9abfdb625d88ba991aa20e0e6d7575e8c202a02ead5e49a5ca786cea93aaf097983b1ed3854843a3c16"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "ab68b01d5148e05985996128d9d2818fc9a6d0c94b8147a9766e7ba9575e1865",
+            "mnemonic": "obstetra damasco advogado mordomo lazer caiaque arraial cachorro branco relativo misturar banquete mascote figurado biscoito galega degrau detalhar medalha vazio macaco oposto exibir pitanga",
+            "passphrase": "xBxwwzVKouqToi",
+            "seed": "f4fa960ae69fb402d13fccb46401696bfcf27c5afe20cb83422e9a9d44e5b2c9be8b312081f6d469a216782e6298f7901f3953e710cdf01acba13fa18f6d4ca2"
+        },
+        {
+            "language": "spanish",
+            "entropy": "8a4292d5637a011b769375b645057fc3",
+            "mnemonic": "máscara asilo pitón rencor octavo meta soltar huerta pleno calvo fútbol mago",
+            "passphrase": "duKR",
+            "seed": "ae1d9cf5667e7aa148350518d5d16f11ad61701b1f01db351f90e258aa7d9352c9235a237dd9238ed1462703b5ddd1badd41eb13d427df08c9d24461498ad4d3"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "吾 embudo 演 foam そんざい muffa 원인 calle 勃 薯 doll bacia ねまき 닭고기 carbon",
+            "passphrase": "knRRszQznd",
+            "seed": "f99819e57510555aaba598e83cd265b96a36971a838354016212a9a2402c9b3dc4b05acf1544bfc0f517e999b8c4777e4989c18e91c2cfd7ba95fc54db225e62"
+        },
+        {
+            "language": "english",
+            "entropy": "78d3eb5d13ef358c95befa77de05728b699a80c90e3ac230",
+            "mnemonic": "juice palm struggle chief viable shock finger tent jelly usual frequent bitter often document category shrug season mail",
+            "passphrase": "M",
+            "seed": "73f8750790cc4d346336b0cee580531c9c9752151991ee584701030f3096098ca1b9449fcaa74056da547520f923d1739c99fcc67b254ec96eca71f725ca93c6"
+        },
+        {
+            "language": "czech",
+            "entropy": "295bd8557d0ccf87cf338278c74d01f30d48cf1f8b2aa6ea54fa1b52",
+            "mnemonic": "exploze utrousit chopit zlato svazek snaha ikona mutace nesmysl hrozen jednatel vliv touha meditace obklopit malovat praotec kouzlo jachta horal doutnat",
+            "passphrase": "L",
+            "seed": "32dd4f8e4a56eb7aa9af52b723ffe78c88d0288442289b5a8fec2dfdb80fb3bba1df32c102e7e4ab0fca3c60871d16ea14002fc630d4b393190d8d9372c0e385"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "425aa2798f5371f1670474c3187eb8030dba887b439a9e012385266faef79ccb",
+            "mnemonic": "英 栽 厘 决 号 萄 店 监 乳 乌 钠 产 扇 远 邮 居 勇 电 阅 够 晒 库 座 横",
+            "passphrase": "vYVSnCwhg",
+            "seed": "841a7f52cece99344d6a41f67963155e618541bcf852dafbc952802a978308e65329b9cd25ed8058f1e2a4b2ff5b62bcfe7b1916c180e1e92fd604b2bb352569"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "8bb44b5abbfaa27108c8cea01879af5e",
+            "mnemonic": "忽 莫 狗 凱 震 快 志 管 貢 租 誰 桂",
+            "passphrase": "MDNdK",
+            "seed": "eb5f8435dbe6d24a5674e0508a53926cb60e10332474390c15572c93261a21b197862fd79964f55253c897cd7e9dbcea5b810993558ea2cc2a85f730b6f74c4c"
+        },
+        {
+            "language": "french",
+            "entropy": "0fec332529b2b5e8c866b0155dc0e4b36d6341f2",
+            "mnemonic": "apporter exulter rédiger endroit causer usine bougie sarcasme audible tournage coupure filetage sardine muséum rejouer",
+            "passphrase": "ocPuWGOfUUD",
+            "seed": "6625463b90ed63d647b3cf1b05a8560a43c2abbdbb017eb4029171c96eb186605065c575c21e62b4cd3d099ab07c8572dcaad5463bd41063c32a18a0a4fc8833"
+        },
+        {
+            "language": "italian",
+            "entropy": "cdf968b00ddf6280d84ec70d23496f659cd6566caf574b77",
+            "mnemonic": "sfruttato serpente cifrare benzina veduto dovuto grammo spezzato anima battuto gatto serio sfogo chiedere restauro trapano estroso rumoroso",
+            "passphrase": "WKznbjGHB",
+            "seed": "f62eb481f3a997d894cc812efd9f33859e60e003bbac8a79ba32c48bf538e4c7f531aa50e41398a578aec48424cb514fc674345fd428141ed4d4d32c0f2cb42f"
+        },
+        {
+            "language": "japanese",
+            "entropy": "b3c4f6a0969d58c3fe35d2b8c8e2804ae88b39eb0932a2f3dd31bb73",
+            "mnemonic": "にんき　がいき　としょかん　かようび　ふとん　しいん　りねん　ねわざ　ねったいぎょ　けみかる　でっぱ　ちほう　たおれる　ていき　ながい　おらんだ　てんき　でこぼこ　こうそく　せつめい　きのした",
+            "passphrase": "TLHHzDDorwRlLjGH",
+            "seed": "ec5b8689e864cd6922d96e1eac219154f0969cb6cbdc2adcc800bc9a353b0c73cda33bc4510f21e8e17711d0382dfe484ce7fbfaf3883af34b5bc1db7481e28c"
+        },
+        {
+            "language": "korean",
+            "entropy": "1f8820e4bca591786eb9624dccf5fb7411b7c189cf178a2da85beeb7a6db5a45",
+            "mnemonic": "기능 무척 맘대로 시스템 불꽃 점원 전혀 단순 번역 선수 실례 평가 그냥 탄생 냉면 통로 얼굴 소용 구름 커튼 시점 소중히 설사 전통",
+            "passphrase": "RhEEPLDtQAkkcIgn",
+            "seed": "f5063bfddb6e2477d729884635d27c5ffd6c99afe88454f97ee753fab7c2109d2930cb89d48259b4244c32e7b5da09c4f497aa13b194328d425c231244f39387"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "b215ea794ea9e811860f6488550441a3",
+            "mnemonic": "ovular orbitar metragem mergulho mexicano agasalho assoalho tocha javali nitidez ampola degrau",
+            "passphrase": "thMPFtFFIBHrFHR",
+            "seed": "232d5339afae2c57d14d61503f623e6f972dd7c0f749125205fe3ce40cc03c2054d8eda2bd7fef50f0af3721fc8f197c027943f46927c31c65cf7d7a2034747f"
+        },
+        {
+            "language": "spanish",
+            "entropy": "dbedddc94473d4756e4c041fa81f1a072ae6de90",
+            "mnemonic": "sostén huevo índice mar cumbre crisis poseer lino boda denso remar anual pegar humano desayuno",
+            "passphrase": "uUyugrPvPREX",
+            "seed": "26f6f38f338c7b4ba5e95e3ef6981a236274e5617b9d85e77bba40ce1211653f17d1b45b6c9275743b29d0a1c01cb68aa2cccfdb6fa05b4e05aba44f3790b196"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "ちょさくけん 疫 puzzle finestra revize craft 순수 colher degrau demanda あめりか avellana gralha 塞 esempio rachot bermuda incluir",
+            "passphrase": "",
+            "seed": "2998cac8df155a9ac02273b6389c65866e8df9e01d1219a337400d1ef8d1c985539395bfbcf1b2b508dfc6557d8272b6768ba3a2f27cc6ca0531c273ca1d1c11"
+        },
+        {
+            "language": "english",
+            "entropy": "431f55c079513653c13a2649fa5a28bf57edd4b5bf682a5fdbfcde9d",
+            "mnemonic": "drink wide hybrid verify beach clarify agent dynamic enemy spot mechanic leaf learn tumble street unfair clean yard you rule stay",
+            "passphrase": "UpJneJGUMxdYn",
+            "seed": "48fd954c0232e51045f41d282eae36a3ef87780759bc9fb3228d5805a0faf5ae2b46883304fff761f51d7ae05c8585bec6f37487eec6feeece1c6773dc489ea1"
+        },
+        {
+            "language": "czech",
+            "entropy": "f64a7246a9b20877644f0f30a3473caa16d811fd442ce28856135144287505ea",
+            "mnemonic": "zbavit kralovat panika krajina domov hustota paluba veletrh hanopis cvrkot tahoun kresba most bizon zatajit odtok veranda jizva odpustit posila jitrnice hrstka cihla krychle",
+            "passphrase": "DHiYQdIsA",
+            "seed": "a20408df55ba7e89d776ce15b3f3742221e0936500994cace93112fe366b78ae6ab279516be5d0e865595ad591c59da84e43c1dfb43f0409d3827c8bfca94840"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "7441a5e4441a5b531170306da5b122ad",
+            "mnemonic": "绿 开 殖 篇 淡 隶 怎 产 买 群 服 终",
+            "passphrase": "eaDodW",
+            "seed": "41941a8b2bfabb2e430e5729b2dbd7e8e3c75939de60f255fa7d96cc5c827002bc5e2a8687e222fd669bc55aa40c699a3dd44d01b4f70b0e8e5c3c80273a5cb7"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "20411130d611d04b556762a55a0532cc4fd7be2d",
+            "mnemonic": "處 等 輸 竹 手 證 否 烷 磷 奧 夫 莊 鉤 惜 碼",
+            "passphrase": "",
+            "seed": "fc1d8768e531e4cc305fb6409beae0c6e373badc00f4b1e158e0275dbec80c7c4126877a06a60daaa9e4f12474488402ac037ef971135e345909a1da9363afc7"
+        },
+        {
+            "language": "french",
+            "entropy": "59a628ba625d701b48502936e8d5d1d53721cddc2cc4d25a",
+            "mnemonic": "escalier cimenter chaton punitif savonner anguleux boucle adjectif congeler dimanche gourmand odorant gibier talent gendarme méditer rotule risque",
+            "passphrase": "usnCWYh",
+            "seed": "5a8cf653a15a56ee40937ee22168a7f2da8f84a822a3480aa5399c436c7a7de74ffddb1fb6c50b58c846db5b9a02e753bbcb2195d8d07d945f4cfbfb35ca18a1"
+        },
+        {
+            "language": "italian",
+            "entropy": "4e08a5ba97ddb5271b1f49379ed37e816f2b7cffe785a7ee86d46b8e",
+            "mnemonic": "fantasma emesso lago computer staffa orribile irlanda tornare davanti velcro surrogato adeguato usuraio sabato zucchero ungere premere logica riflesso sosta toppa",
+            "passphrase": "tdqDSIyvrhil",
+            "seed": "91e7ba2bd0abac3cc018d8c8d8c5eff06352b98501647464ac71978d983bb8eb6d7739818efd2af7ef05a8d080da0ca317076f04662104d9862b9badf6353ef3"
+        },
+        {
+            "language": "japanese",
+            "entropy": "1e3f4b91dffda852ff0796fd62b9a482255aa53177ca5d641694539583a4f7b7",
+            "mnemonic": "えんちょう　るいけい　みすい　はいけん　べんきょう　かいよう　れんあい　ようい　ろくが　うちゅう　しゃざい　あまり　こりる　こねこね　はめつ　りょうり　さばく　おかえり　どあい　とくしゅう　さいかい　ふうふ　ほっさ　よさん",
+            "passphrase": "RqqNLMzJvRkhS",
+            "seed": "0dc80411cc4e2715a8a23e4d64497fcf365fc138d5bb3da52fb14248cefdf08dd7a10809af362aacba4db0a199fd13fc9b6fd7d1c512fc3d128f3d4e7f73e574"
+        },
+        {
+            "language": "korean",
+            "entropy": "96ece7e1fc863f0b728fea71c1580bc9",
+            "mnemonic": "오월 선거 호기심 호흡 상황 암시 지능 횟수 수박 경고 간장 영혼",
+            "passphrase": "HIPSkcRuyxYhxGK",
+            "seed": "7e6c3e2ee3f8051085f6bd70054772ddb1bddccde2a1c067db8940243e1f49fa9c59fe5442bbd421a292a8c510a47bd982b1ae029cd209ee3331c99f3fbf696a"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "b8c00b93462b6f25c4724f8ce0b1c1651c75b5cf",
+            "mnemonic": "peneira abalar surdina lanche patrono locador anomalia derramar largura adepto galho rasgar quiosque sediado contrato",
+            "passphrase": "qkIWMZlbVlbboo",
+            "seed": "824d237988f89281e6fc178f9a44f6430317738a9349df2594c468616948cd5e5683d0dcb33c58631eb3cb8aeded444ad00387b05190256618e5771eb0b580a4"
+        },
+        {
+            "language": "spanish",
+            "entropy": "cf05a5627f61fff0e9e11da7fd2247dd9461a1267eeed9b3",
+            "mnemonic": "rumbo cazo fideo yoga boina verbo óvulo buceo oyente título molino privar don sala neutro suplir sol nuera",
+            "passphrase": "JmRovIijOFeA",
+            "seed": "a304a49bf0025686cceb34c50e3aab8a1026cea3cca740cfc1e4479093d5b058462e5f159f1f8a24bd938d02c91230b6456dcde497b2b8c3b724558e4756457f"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "triturato otruby enlist atrevido 복도 주식 cestopis 港 sanear 食 たいざい 剝 きねん 纶 renna padouch ちそう 街 帮 épargne cisne",
+            "passphrase": "uCIkX",
+            "seed": "5e1961d083a846ba3888d78b50f2fee11f23ff16331d397e672e658d73ea72109146f0b215c131fe596d414b46b678678720bc4c8c081bb6e890aedbe7b951e9"
+        },
+        {
+            "language": "english",
+            "entropy": "7b8815f94240020776b34037304957ce359962a832280213816189756a6b5838",
+            "mnemonic": "knee doll layer loyal ability admit suspect gym damp liquid field organ flower rally patch eagle acoustic orchard flash base find cup genius blur",
+            "passphrase": "xrJiklFLRdBcCaL",
+            "seed": "924600b038a9c5a441524242ca418f5bd859debb921e39fd9650305027599b7cb7005c3e85eb571170a9dcb271bb018c0b9ba23c08b6596fdcc7815f7c966fd0"
+        },
+        {
+            "language": "czech",
+            "entropy": "d1f41963206d490e5df5345a35101b10",
+            "mnemonic": "tenor popadat kvalita jelen touha ohryzek nelibost prahory lachtan promile bazuka dosah",
+            "passphrase": "OOrObLkTL",
+            "seed": "102dd14c8d4a92c5863dd95e0d710c7c64632e0ddd6c25a05204547e65b795e487cb2a24cab33a7d795a3bb9e6fa97d627d8d2fea408c5476e4e2c83a12a6cd8"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "93c6dbae5d3e3f8c4637290349964dfbf635ee83",
+            "mnemonic": "败 精 飘 牵 杰 瓷 文 棚 作 夫 园 俩 针 霍 平",
+            "passphrase": "KtHOhILZ",
+            "seed": "2852f42e1918b6b601a5170f3cbba0a9d0e4fe11be1883055577d00d8880d6e15084f551d556802f6727837310e4325a59218bd7e0b10b6189430f8c4cc9ae49"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "7cda151747f209c0465f9849677fa5d6b5db2ab5f556e428",
+            "mnemonic": "歸 憑 怎 頓 南 嘛 活 昏 判 圓 脆 擁 刻 鍋 扣 循 鼻 章",
+            "passphrase": "JbKlFoGATl",
+            "seed": "9c5e2b35a339626f33ab4aafaede09f75e31e5fdea728403d9c7036546333e7e74ab9fc8d63ccfbdd6f9c96716c470dfe4a7c1a7d0d7452d60d1dd678de045f5"
+        },
+        {
+            "language": "french",
+            "entropy": "d289d9ef2730c7a27b8465df9d853527ac6e1ab562427250afb36311",
+            "mnemonic": "rouille effigie horloge éduquer ampleur rocheux tournage léger sonde toboggan écorce égaliser rallonge anéantir saluer dogme girafe isoler toponyme raconter attaque",
+            "passphrase": "uEO",
+            "seed": "688df6e31c5bcc00a7aaa70bced8cb1dfdda492bfd6c798aaa7912732403f96e73cd0bdd38d09c6ec4ca852dc2fc0455e4cd8aa3a72b11600cd4328f7a335c94"
+        },
+        {
+            "language": "italian",
+            "entropy": "f03015caffa6e971dc3c6d6de79331534e7551fc51cf0d0b28d9158b0cd19b10",
+            "mnemonic": "umano mitezza limpido zolla laddove riso leone occidente labirinto diploma sfamato postulato titolo privato unitario deposito angusto fuoco cuscino chicca redimere infilare iride anatra",
+            "passphrase": "x",
+            "seed": "d45dbf65df19be2929c97dc95e75559ffc3188e2adfc430717b002a1fef8e280715763f9199568bbae28970ecca255e91895ed9bfb0d55545dfcadb1ab21c8d1"
+        },
+        {
+            "language": "japanese",
+            "entropy": "823431c2f990f6227032148f3160c620",
+            "mnemonic": "そらまめ　てまえ　すのこ　ようじ　いもたれ　いわい　ばいばい　げこくじょう　たんい　だっきゃく　きさい　けいこ",
+            "passphrase": "qYvEOIQmxnSuN",
+            "seed": "34e55587dc2f50b976d4a5bb8754f528b0e33bdeba69e24093c8802333e4eefb79cea239371ee3952b5f39352bc004745d717e61954f67773f0034bb191a30d6"
+        },
+        {
+            "language": "korean",
+            "entropy": "78c8564cdd4dc93ff4bd4bc736dd2066a2375fa7",
+            "mnemonic": "시민 물리학 영향 전철 칭찬 웨이터 천국 인도 중단 저고리 받침 진통 껍질 자부심 우편",
+            "passphrase": "W",
+            "seed": "29a1561a6ca3279ff960ccd7e1a70b697bbd3199376306e35d4b9bd818f8cb6a1cf628a5e01f3d76f5ec7abb9747f12cfa35d1f4e7319191035d6dfc425b4ad0"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "936f1a05a54fc98a7250315ef837bc2be8a158302918ccba",
+            "mnemonic": "lona grudado incolor desfiado visitar pulseira rapel adiante esvaziar prece tradutor engraxar julgador ocorrer pote besouro redimir rigidez",
+            "passphrase": "LgV",
+            "seed": "6b9d990e394214c17a71ce90f9ca6593bb51fec27a7974a39448813b5b772a5e4b100447db171e8ceb38e5efa067d839355e107ed63f2f6e8421260321df4c78"
+        },
+        {
+            "language": "spanish",
+            "entropy": "bfe70225cff0f396f8258611611ca9f82dc766b30f755f3730129421",
+            "mnemonic": "química contar margen ocre aparato roble tambor pereza arco alfiler capote trufa suceso pieza roer tribu fumar potencia aéreo cama aprobar",
+            "passphrase": "yUAewvkuSYJsCt",
+            "seed": "50a896035740f92114af084fa89dc00f84ce4ff2b59bf7978c6634148176b02a4a4b7df5cd53011ae2d6107c00a9bfc72d79d0dc338fe39dee815eb6bbb96af9"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "아줌마 항공 sell plural ざいりょう embolado fastoso exilio 相 telefono ancora 雄 eight sagaz tumor mosaz せんすい 자동 resource 이력서 shoda imbiber 厚 obturer",
+            "passphrase": "Jo",
+            "seed": "db735f86e7bad01a207ec3b6b3842cfc7ceb08d6f6d925cc5d42e8ed0065b87594542edb7658719b0cac74336b7848305ea6c466577d7ef118875a1f9f3f8008"
+        },
+        {
+            "language": "english",
+            "entropy": "f9664a09a4665764f828ea709cfb7062",
+            "mnemonic": "west crane list emotion grace raven thing bubble identify treat swing shed",
+            "passphrase": "vMnbvyxg",
+            "seed": "8c90c8d003cf99d2d0cdfe1d66666d82e9de3664b7c4faf9520bfa1be5b07d0bf55e880e293bcd88a665fc0a9774d08b36deec3111ed672ef47f9dbb01f4d7f1"
+        },
+        {
+            "language": "czech",
+            "entropy": "d00f3728a1e245683396cf77e890f4fc114580f8",
+            "mnemonic": "tamhle nijak strach kadidlo drdol rovnice sypat ucho nemilost kalamita infekce zeptat chlubit slast vcelku",
+            "passphrase": "HHDddYpPgG",
+            "seed": "ec68150df774635a00cc1a31f9e561953727604684019800dababa879b4b30a66f9e04c280dc4f15928726eaaafcff7bfe3af628990496f7a0896b3e187e8b53"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "03efb3baaf26af085e24f573922443a87ec2eb9ac449bc89",
+            "mnemonic": "分 险 醇 甚 蛋 奇 卷 芳 裂 妇 新 古 郎 临 沉 迎 龄 护",
+            "passphrase": "FWlDV",
+            "seed": "8c5803ed4d6656b8862e41a33bb4d5ec386db540e0592557d046ecad664a748f7d84e96e74881024f7bef436d2cfb9b9a152dec5ae3e3bcb07e9487487aff198"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "85a6a01e8b7ee66f67205da2c710985edaa79170efbeef36dfa7a514",
+            "mnemonic": "退 團 得 提 鈴 選 汗 機 援 快 美 鄭 怪 偵 磚 濱 姿 顆 酚 差 致",
+            "passphrase": "plCsnvnOYVKMF",
+            "seed": "19c669010bde984fe02f4e93e4d0d660f269229d82f4bfcae0922118e7b25e491a27a22ba2d21e3477078eb7ef00297fcbfcd7992522e96536fde8c198171132"
+        },
+        {
+            "language": "french",
+            "entropy": "242a81d16dedb57c7cd4721971aa8abbd3bccb5a6530159cfcf4ea05daf8d045",
+            "mnemonic": "brousse enfouir goupille sévir serrure pondérer unifier lièvre bannière lexique nation gymnaste crucial feuille fluctuer nombreux aurore tarder cupide rustique euphorie hublot dégager plateau",
+            "passphrase": "",
+            "seed": "97662e8bccf4be529a9cdf0df54c731559416679b3d23d7faed6a02954d8fa7271deaa77317883e11d7ff08eb07ae77725ecea73ac3b78e6d1015d358b80e603"
+        },
+        {
+            "language": "italian",
+            "entropy": "76dabcd8f2e1c3642dbf5108168db8b1",
+            "mnemonic": "macinato soppeso curvo testato bibita reprimere rinnovo trachea alogeno ricordo lacerato grigio",
+            "passphrase": "Woi",
+            "seed": "c10e53863e87fa2d83e0a2169398a37e35c69c874d7a3867c13f68d65c81ddb087c90084bf21f68220133d1ae21296ccfb383dc1685267ff07d7304ce0e1a2ea"
+        },
+        {
+            "language": "japanese",
+            "entropy": "1ebc099745240256e016531c760956a86ad902cb",
+            "mnemonic": "おいしい　まがる　しはい　たたかう　けいかく　がっきゅう　そっと　ひこうき　えほん　にきび　こりる　こたえる　なにわ　そまる　からい",
+            "passphrase": "GGDQzUqmwgK",
+            "seed": "cb2c32c19580ae67426cab1e114ecc236634a20d18e2210626eab15d9f40194d05fb31545dd6eeab6791b4aa1e9b09ba2ddd22cc8587d6130d9a7bda15c85ceb"
+        },
+        {
+            "language": "korean",
+            "entropy": "401ab71f6978d372ecce43ad59afae7ec721b7926174d679",
+            "mnemonic": "무덤 초밥 중소기업 천국 여론 전문 장관 즉석 일체 진행 필수 효율적 수석 칠월 발톱 답장 초점 증거",
+            "passphrase": "mJiVDc",
+            "seed": "34bea99cee3c33a9aa65cb712246a136a42f58fc0f67972bcc779930785bd382e55574702010de6e82a3919c14fc4b4777e6bc4e021b7a84086274a00a53fbfd"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "d6dfc4f7b2ecaf9f5e561cf5f0f97f829dd30c2822ecc7eb7013f6be",
+            "mnemonic": "sacola vulto confuso favorita realeza represa guarani produto validade jardim eventual adaptar serra iogurte mocidade espiga radial erva acumular topete suprimir",
+            "passphrase": "yQkYbodxPsW",
+            "seed": "213b3461d5d03823e439d7f8843964370f7f0500464fa00d5c73aafa6ca85516edf4a673b88733dcd8da25955435af7ad80420263031e34c9ce00bdff5773bc4"
+        },
+        {
+            "language": "spanish",
+            "entropy": "2b4b31a4df32776da08332dedb17b181e415dfc6b97720d06449c56a2afe8336",
+            "mnemonic": "carga fila gustar punto calcio pobre llegar grasa sutil simio tóxico acusar derecho trozo bajar cero bono locura arnés matiz olla liga ancla reino",
+            "passphrase": "Xsia",
+            "seed": "3555d10c506ef10d46e4ed44d4b31ed6da2101a4ef60843b80a5439cbe3d8efa87780d95882021dd514d89a9c7f45894ef2e3966d70d42b743f469bca0b85eee"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "지경 今 ilegal 碰 eterno いがく soterrar baño hiato 조직 saliva inimigo",
+            "passphrase": "k",
+            "seed": "6148f2917c264f54ab26d4108a0078fbc2da38796cc2f21fa75d04874d9b3aeb333f4bdf5fe8f67b25113b28fffeaae37ab7695ee6a69863ed4bbe30b139d1c7"
+        },
+        {
+            "language": "english",
+            "entropy": "b2ca639f3eb9f4db34bfd251d5c2ad058ae9dfe5",
+            "mnemonic": "ready fantasy treat latin palm horn spray where fade puppy prize arch purse useful now",
+            "passphrase": "LkViaQASAAxbZlc",
+            "seed": "cd6f7c28c6df556ceb9a981ec458630c71be7395398917fd61aa8ee951a71e6755e3e40a65af27f25dab3bca94982d8f9dd85d73f0fe1a5c1e45cb5a1ab8460a"
+        },
+        {
+            "language": "czech",
+            "entropy": "d9faf9040985b393455d6683ac95b62d3a1827be80f7e4c3",
+            "mnemonic": "ucho tuhost jemnost chalupa laso stolek choroba pysk odkoupit makak most laik popud chichot zlato dohra vize dcera",
+            "passphrase": "CMCFxTjHJEsyntz",
+            "seed": "9f77c0f4f300951daa677957afdd21dc5c8ac131b65e1a69cb40af3df6186a4aa99caf94050a1200a4b651acf55dc6eaafc55c72b9a648b01b834c7709ea2fa2"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "ea568f18539a9bf6cbab578864cda39f8c38750dbf8e155c9a8ceee7",
+            "mnemonic": "涨 寄 踏 蓝 疑 摊 林 蛋 阴 转 贵 苏 烂 片 值 汪 无 逮 售 勘 沿",
+            "passphrase": "vBFor",
+            "seed": "698bf9a1616a973305248aaf1e25af131f1823954d9faf534542fcb666d54fadd1daf888aa6d53e7f149a6353186acfc5aaf27eeb74feaab2401ec4bcbe5853b"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "06673ac4109086faef4ed93fde234a1a25c9b81d1077e91a9cf3d9b213aa1ea0",
+            "mnemonic": "而 格 跨 即 著 裁 鋪 佛 女 墊 拒 支 烈 扶 綠 日 酯 碗 照 苯 即 栽 露 是",
+            "passphrase": "BSGPpRu",
+            "seed": "5b1b8324f925a521445cf7603804b4db15138660f63b4fa2f655cffd7655d857dc5b4820becc2f09d32e1f2c534a44460e5718f709ac21d5391bb6938fbec90c"
+        },
+        {
+            "language": "french",
+            "entropy": "7cc3ba1335fc68ff04c54edbdcf80a7d",
+            "mnemonic": "humble biopsie invoquer franchir raideur imposer asservir octobre sévir taquiner acarien vidéo",
+            "passphrase": "skmErIDJxzFJ",
+            "seed": "197cb24fdeb8ea187a789ac88652fccb4abf5771dc8cd4606ec2c5711846394925e9fc2fb19e0c3aef6b8182404c7683d6179305b57fb9f01a3b7a03096bcfb7"
+        },
+        {
+            "language": "italian",
+            "entropy": "6da2cff356f778570d6f8818afac1f96864b2533",
+            "mnemonic": "iterare avvenire voga ragno maiolica chirurgo cullato unificato ballata mese almeno ciuffo ignorato organico sibilo",
+            "passphrase": "TemlPYZSuj",
+            "seed": "bd48af7a7aab4a51d1de1a20903f8d04a67940ace28007615a2ac44bbd071f8cf1c4cb31461ff6d26bd25bdeef404b399d27f5519ccdf5bc3727b70624e4511f"
+        },
+        {
+            "language": "japanese",
+            "entropy": "7879f832ae52b122d6824f3023c95d2a1f3537944aadc0d3",
+            "mnemonic": "ぜんあく　ひるま　いっち　さといも　かたい　たんぴん　さがる　げんぶつ　きおん　えんとつ　こんびに　こまる　ようす　つるぼ　こっか　こりる　ばいばい　つける",
+            "passphrase": "aWKjqA",
+            "seed": "8ca588e272302dbcb76a56a798fad97b59129485218df2f347f99adb4969ec48ad01bd402a93530a61d8aa5f5de01faf6d03d4873dbea41e02386ea32b7d2218"
+        },
+        {
+            "language": "korean",
+            "entropy": "fdd7083dca655e4913f82cb6425c708f7fbac3274c2250167462d960",
+            "mnemonic": "후춧가루 적성 고향 예습 부엌 낙엽 변명 강수량 재채기 과장 그제서야 금지 환자 삼십 운동 안개 변신 장례 국립 잠옷 걱정",
+            "passphrase": "gouIAHndSgYFMyWH",
+            "seed": "a3f45fe1e1beab44b6742d22a58ba3999534b71c5ab967765f7122f7f894ad9c467722254090b98c9f60caf08ed2bcb09f40543c9441206489c7d3d23e74ec71"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "bcbd551a04b51148a6e275804de293a5d19abdf1751f0c3403b228ccde66276a",
+            "mnemonic": "pioneiro tesoura declive agora doutor mundial medalha disquete impune furador museu detalhar atirador esvaziar puxador mulata algum miolo tocha duelar regime cativar mesmo diluente",
+            "passphrase": "KdterggIpwA",
+            "seed": "767cd7d03b60312f7c0472330a8087fb1eea96c244919e20209c4505e82982889192bacb03007ae8e757109de1b1ea145133cff152b4c1bc9d3193bba660acba"
+        },
+        {
+            "language": "spanish",
+            "entropy": "43e8d4492a7e2e06eae8b342af84898a",
+            "mnemonic": "diez dos armonía falso teatro actuar párpado ático día lazo brillo áspero",
+            "passphrase": "UH",
+            "seed": "65176eddc00a3139bebaf2be7899c3ac15d344445d3aec65cde751c54eef2ab96f262fb1cf90b9eb0f7c317c8100501bf17cec12975bb414d1e6b8b7f7820ebf"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "dad lavabo regular levitace 丰 随 giggle adjust oval 웃어른 rulo treinta げきか stantio 敬",
+            "passphrase": "btxibIdCcLU",
+            "seed": "c8222dc898849c8648154c257a75ba589a78d99bf84ca5741becd8a12feb1bb036b3b52d36bad7c4ce086ca15585c152c31ebb4008cea4a704148b2293d671c3"
+        },
+        {
+            "language": "english",
+            "entropy": "1fcc5e417512b5a3d4854cf00ecfcfdff26429d22feab5e2",
+            "mnemonic": "cabin glass motion tuition clip spin faith praise useless island view say chaos belt emerge wool remove blind",
+            "passphrase": "KNnXYhbHiusvnHkD",
+            "seed": "7c036f19840529b5a12caaf05872939a4db24949ea7bf6ff988305e17971a0a9aa576ca7749cdb3c24c883819a13c016b538edb8a816c0c0592469d11510454a"
+        },
+        {
+            "language": "czech",
+            "entropy": "0880011e494ae63fa66d2b63a37cfa68e705154400f1f4eae00fe9c9",
+            "mnemonic": "biograf abdikace katedra parodie rande dolar plivat povstat lysina demokrat jachta tenista mutace opilost butik dobytek zasunout kudlanka badatel tleskat periskop",
+            "passphrase": "RhSwZhM",
+            "seed": "2716d51b8de0701593f91299ec86d8a16879ea1ccf2b5d1bbc32e555c6fe495e27d4ac794995c43cb4ed24cce7c8034d940eecce7f93009c2aba2f158a1b3069"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "4cbde8b50b92e61cd3f856e90cea1bab4d8f781dda607fd0614fe00d7c1cd73c",
+            "mnemonic": "夫 拌 许 题 界 外 互 实 酯 谓 铜 倒 宇 巡 跳 曲 哈 荷 阿 砂 扣 外 烧 卖",
+            "passphrase": "BToQdIQPJtxczbpn",
+            "seed": "c2d196c11c82d9a79747210c622a1f1add3b9d23778b920b612528f96902c1489a83b4f263df046b3a8bd8676b9fe71deb53e1bb8821a8b590cae36de82d78a1"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "70570833a05e91009ad599d135bea8a6",
+            "mnemonic": "棉 遵 好 藝 酯 澤 穿 舟 酵 濾 震 故",
+            "passphrase": "yyJEPAPdGwOT",
+            "seed": "a9962a47bfcdadea7366e22be5cfcf2358d5bc599c519c313e2843f08ce845f21e1038f95c010e24da4cde519640583be29a8478ce5e76f7fc55cebb781d7852"
+        },
+        {
+            "language": "french",
+            "entropy": "f1b99f54a31c42bf00e90843d68e9122e72b0b67",
+            "mnemonic": "tunnel replier salade digérer puiser exécuter acheter borne descente pavoiser nettoyer diamant glaive ivresse million",
+            "passphrase": "MmRLayJlTN",
+            "seed": "ed93c791b0353dbb8179745d6229af208213c4b1e6419d50501ecbdd4336e36b5cface3926fd9ee81c6a6f86c8a73295da0b56129adb908dd0870244b1c3f5ae"
+        },
+        {
+            "language": "italian",
+            "entropy": "aca5463104875330b25d350d04386af193ec4e33f7f3eff3",
+            "mnemonic": "quasi cerume nuvola alveolo luce palo sella potassio angusto buca bavosa tasto doblone carretto silenzio zelo ulisse partire",
+            "passphrase": "QkCMBhwLT",
+            "seed": "e770e0970315e50d0c08f2d9c86ea75c2ddf66b50d6d32af5c1bf0267457e32564fe1c3f3df227bf7a5540dc5fcfefa927e296158efe79508245c9d18822a1ad"
+        },
+        {
+            "language": "japanese",
+            "entropy": "f7a21be8fcba3d3e70397bda45791cfa6fc87c51af8b948294c5124d",
+            "mnemonic": "りきせつ　いれもの　りんご　りょかん　でんち　てさげ　はいれつ　きうい　へらす　がっしょう　けむし　よそく　れんしゅう　くふう　けぶかい　ゆけつ　ちたん　うしろがみ　きこえる　おとしもの　ふひょう",
+            "passphrase": "yj",
+            "seed": "31f496274a605a15f4e7dfb4e1aa32059566d8d0110cc196dae2d46f8d6e708c93b5cd4791ddb9034153145b59c6269eeefb4d658d52340411d7ef753476bdcb"
+        },
+        {
+            "language": "korean",
+            "entropy": "9d39f184980ae6c74a966b60d3df5a392fdd7c621f8d14008ef3df15711e8a4e",
+            "mnemonic": "운동 착각 살짝 대륙 입사 상표 눈물 진행 산책 원숭이 초청 수시로 후춧가루 정부 양배추 할머니 관리 감정 젓가락 정부 부품 연락 농구 참새",
+            "passphrase": "oScksrLnlVJZnrwu",
+            "seed": "c8758d9a4e63c63de6a2261d7dcc66e7cdabf07e71c608cea87eb1356359dbba38dd733fde23976072e0e754ffcaa55ccf6b4279ba0f00663ea3da18be5cbd07"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "8117cf98c5203df30ed81177118480ce",
+            "mnemonic": "inchar plumagem tagarela jurado acima versar coibir acabado gralha lampejo barulho melancia",
+            "passphrase": "JqOiACreCnwEKWzS",
+            "seed": "17d35d2bbb54fe255e3cdbfbfcf8a6d087c443e0ab43dfa41b95e3e58ac0f294d4241cd7f11dff5ec764b676eb6e5d65866f6bd8b091ef4fc246678394bcfb2f"
+        },
+        {
+            "language": "spanish",
+            "entropy": "8f60f29c2194f9ee4478173008e202a4177f6338",
+            "mnemonic": "mina alacrán ostra diana esencia vena área acoso chapa droga linterna dureza junio persona tanque",
+            "passphrase": "FixiPyQ",
+            "seed": "ee73a83f4089fe2d31068e3a34b0979ee962d11fe95e75aeba2f3d80e754899722459f5e975e2ed28147fc4dbe27720501a9148b8723726787bfa376877b02fe"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "ungherese 注 あたためる pinza fanale monarca allegro 聽 vergogna pyramida paisible 敵 점점 むしあつい 歌 titane のばす tipico",
+            "passphrase": "PG",
+            "seed": "14a66f5a4c0bf2cc621a1884c4157b2983d570303a97a99439b3c7b3ee611f998608c18da80b4dd0d3c589587cac1d686b08a61676d645d5af155b58e6097f26"
+        },
+        {
+            "language": "english",
+            "entropy": "a21d007d9d803303f0b8e645dec8e8cc3806b385be5a0bcfb5c1918d",
+            "mnemonic": "pear trend buyer deposit add limit seed broom easy wagon demand observe lesson flush black slender armed laundry idea cart tape",
+            "passphrase": "ibBWXZMfbSbkgaW",
+            "seed": "085c40dfaae928bdeca23a010852fa729c3b41d4c233592ff755c3296e39e568de3688efceb307f787a524ef19550c43a9092fe7712f95de04d4a24534e236d1"
+        },
+        {
+            "language": "czech",
+            "entropy": "b6e6022344def65eb7e82c3ce37c0e6635bc5db344bd83b38a1d9bf5b6ba1bad",
+            "mnemonic": "rychlost hadice okusit omlouvat vyzdobit granule uzlina barbar iluze demokrat bachor svah leckdy golfista svisle pivnice odkoupit podnik okenice hostina latinka lehnout mramor pumpa",
+            "passphrase": "IWbMSEgkYb",
+            "seed": "584c3d335e61f52e1c3007c9852ef3791661bd6f38854422354f3fbe82adcf1d1a6771396804efc673d323ff52286de03c68cf94383c2ee15a4eaa4827fba304"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "b05e3b236b777f44f0c2031e42d86163",
+            "mnemonic": "饱 汪 悬 辊 凯 刺 乳 罪 区 并 革 洛",
+            "passphrase": "ES",
+            "seed": "99a4fa8e50414463177219c7bb333ad8ad7596d7d6717e998bcc7b6af131c6486f6a7705e984df7e599655609e4287ccc7d17a136b1eb10490dc37ccb1c42f5f"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "feaffc7003d695ec152c64776d36f99e67f847e9",
+            "mnemonic": "邏 竟 知 得 讀 仇 微 替 跳 香 柔 局 潤 階 鏡",
+            "passphrase": "ZQI",
+            "seed": "36e5ef8743453fdac77208310c9cd6ca71111204712cba5a513c3b4153020aac9abafd8828e8560396fb53855b5fc07f96c9a416191b720893980537529809bd"
+        },
+        {
+            "language": "french",
+            "entropy": "38fdc1bb453c9002d2e58842a7d19a95f1a9a44afec54107",
+            "mnemonic": "coton tournage fusion lagune reculer abroger duplexe panda dénuder dauphin filature cédille bataille rotor cédille sécable dégager crucial",
+            "passphrase": "NtzYgPcFLR",
+            "seed": "6987c65c7d880afec4fb015ddc0ab10fb300281688decaa6cc9d2ba160d3d93390557882aa478f8d43ea3c91126517f9f6cdf4fa1030bd15b92b4388bb9e81f4"
+        },
+        {
+            "language": "italian",
+            "entropy": "e3b317144eea9d17b1f4f08ca940af4578a9ea7751024202f30dc3dc",
+            "mnemonic": "tazza pannello schiena perno promessa nulla scuro persuaso obbedire esito ciao norvegese nomina vanvera storico bretella ecco bacino scabroso naturale sfruttato",
+            "passphrase": "eLOEaN",
+            "seed": "d3ac1cfebbe2e544c04b3fd94df36bba62e67ae912ade53b699d20705d7fadb6d5f3f565e1d6cbb8a862a4fb109bca8e0eb72d5edd217dc2679812c90ee14165"
+        },
+        {
+            "language": "japanese",
+            "entropy": "8d2bed57b4b33396ed77519f93f0c2a79209cee38756a05b9e7f482e7d154c74",
+            "mnemonic": "ためいき　さわやか　ころっけ　しゃせん　きそう　ひそむ　ぬぐいとる　むよう　てちがい　てちがい　ききて　こぐま　おおよそ　むかい　たりきほんがん　めいうん　てつや　ほけつ　てつがく　たんそく　むかし　たたみ　きさま　つぶす",
+            "passphrase": "",
+            "seed": "c869910d8d8f2e23c3803fd81d9e160a5363fe3148f14d1bb558b2e24cf5d059cecebfa7a6d7c0b310fc56f0363886503c5132c9a4b5e708a6317da119c7afe0"
+        },
+        {
+            "language": "korean",
+            "entropy": "19ea035000d951fd1278ac36dec5d5c8",
+            "mnemonic": "군사 변신 첫째 가입 예약 흐름 밥그릇 교문 마지막 현관 스님 연필",
+            "passphrase": "",
+            "seed": "72f45ee10072f54bd1b3206227f924b2c3f38a17d4e5ab7bab07f66dbe32f5c565142fa30d36f03865b0b882e491920cb49007421788a90ec4386dab032c6edf"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "ef73fbcd79fd860f8c88e3f7ad6155cae3a3effe",
+            "mnemonic": "trama ministro turquesa unha saltar afetivo carvalho avulso vegetar fofocar empenho macio coado veleiro videira",
+            "passphrase": "PNulBmjkhqhqgg",
+            "seed": "440905bd733e79352f3e3de0a5920281a4e20cad7cd29d1e8aa2dbbe9faf35113ddd0d46538f1d24a3c360bd3c2383f5d8c4e515dccd14f5c721b8b7e9e5d2a4"
+        },
+        {
+            "language": "spanish",
+            "entropy": "b11c1869b75b807c04f1c69c86d5b80305ba0df5cb8fbb24",
+            "mnemonic": "perico tanque babor huerta polvo cúpula asalto cordón novio columna horno agrio fobia aire sexo imponer privar caballo",
+            "passphrase": "",
+            "seed": "2d023d336aba359412e75f1b2bf278ee002782c2c632a4b2015fbf5edc8ba1e1507664486af2ab55f72f4c474cd1a4bc7d361b85b0e69fcfa53b91e38541da65"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "saliva smart 마약 química 孟 mocidade あつめる 隔 언어 vaisseau profesor sbancato かんけい azedo 질병 nerve ragby grog aguzzo みなと sirup",
+            "passphrase": "XWyYjZrjDFGG",
+            "seed": "a1e849b1fb06a7d4bf4946a9a69c3aa5c557a7162fc72d338f9e93b47e0fab351307d3ef24540a91779231d18a2dc6ae8d79d2ce99be4d76ba71631b91c17e12"
+        },
+        {
+            "language": "english",
+            "entropy": "8a32849a561e4245c7ad844304026f79af6e356596b644de4c6f9250667632a8",
+            "mnemonic": "mechanic neither charge promote tomorrow carry burger rack drink cactus orange viable want boy north strategy dynamic venue brief caution all deposit skirt benefit",
+            "passphrase": "yO",
+            "seed": "6f21f5382735579efc69b2ba41a553f093dbde73f014c98b86df665d56821d3ccad3dbaaabac848b395299bba8320880dce4a0d2d0224d5ca893796a1d2ce67f"
+        },
+        {
+            "language": "czech",
+            "entropy": "2063653d1fc5e76769951e3a1b8246ac",
+            "mnemonic": "domluvit dechovka konec jasan levitace roup pozvat potlesk hromada uniforma panika kvalita",
+            "passphrase": "pu",
+            "seed": "1422e969992e1965b7542f2753144b13f80cf334a0878c23aad085c3d28ea3f503c9cd713d5c9194de19310b60613045305ae1ae779c81055fd39bfe4a46bb17"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "8b3e8b8893d4fd8ed9d184efb0a996892370516a",
+            "mnemonic": "脂 咨 昨 带 阳 怒 谓 书 妥 份 善 又 号 具 隶",
+            "passphrase": "zVSq",
+            "seed": "5ad9787c3e922eea9edf3cfe1fcdd14287ac7c2718f0ae4177178ddd52b2a7a9242fab81af089892ed2849895938f3358eb9ed66352711acd9c0210b9e79d209"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "10c1b953d3ad0fe2e815e7b9af15a3b6be8081232a0492f8",
+            "mnemonic": "重 由 控 拖 塘 貪 黎 尋 礙 齊 貴 星 喪 神 纖 神 隔 烏",
+            "passphrase": "mHbcHbpxe",
+            "seed": "959ba4ad01a624287ea81da65838738f27134189b61fdffdeade8a159aab5a1d7b4dfcc4dada12fb8023f42323bae558b07af47ec69172124abfe38d9efaf3a5"
+        },
+        {
+            "language": "french",
+            "entropy": "a87ce165c3da18719ae266d989ed565e186538371c007c02e1c5b209",
+            "mnemonic": "obéir talisman erreur joueur myriade costume fourmi éclore séjour égarer enseigne pluie jardin million siéger incendie horrible aviser géomètre favori malaxer",
+            "passphrase": "LHcL",
+            "seed": "4a8d4de0559cd12b75d9fa3857cde2a346846d26cfb86bf821564cc859f6cf61d83db1f6dec31ae91701abb3bae73dba1dc75376674c34061bfc9c793e587cf5"
+        },
+        {
+            "language": "italian",
+            "entropy": "ebfbb9327c41f810fa82adf854aab3df7dbd904b55e7bef95487313f699d64ac",
+            "mnemonic": "tributo strozzare evidenza vestale bozzolo altalena trabocco formica vescica ponte quota salasso starnuto sdoganare civile rotula salasso sequenza buca grotta velcro sgonfiare origine peloso",
+            "passphrase": "Qnxfa",
+            "seed": "5b9e37859543e33c9ed3a4a708fe417a839be020847f283f63e90d87544aa2b25661b7f4d657e85feb60310260e63c3c91265aed3e618b02ebb64bbfed024ec6"
+        },
+        {
+            "language": "japanese",
+            "entropy": "e35deb99fe3ae2a06e10c53362b32611",
+            "mnemonic": "みいら　やすたろう　みらい　れんさい　なまみ　こせい　ねだん　うりきれ　きぞん　うちがわ　ひえる　おじぎ",
+            "passphrase": "oe",
+            "seed": "9d3e0d2e41905a527d144801432ec9a2b66135148692516fb56707945b25bd2b513d5d0d8918714e09bebb601d947738dd442b23e04f433822a1964fba0e9438"
+        },
+        {
+            "language": "korean",
+            "entropy": "ac327bab421191e6bd6963c123dfadc901a157ca",
+            "mnemonic": "일상 옆집 프린터 악수 국수 해답 향수 단어 조각 금지 필름 엽서 군인 일본 녹음",
+            "passphrase": "eppOdhywqtZKw",
+            "seed": "eba105d76d560dabcf43ed6d07326f25ce8546d00f5a48f1ef62fbb39884fef9425e60ac0f353210bdaad40330270596f6dba365cc4425d530dfd8a67cb9cf4d"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "50cda9fbdbd45708dcad5ee3e27c9f5874b1e5b0953bf11e",
+            "mnemonic": "dosagem frente imediato pediatra cutelo insistir gemada ocidente sulfato aplicada boneco ossada desmamar tulipa preparar neta tridente vadiar",
+            "passphrase": "cmhojzYfOPW",
+            "seed": "9e213b476b872a860b4f0b1abab31025e2bff87678d0984e3da46ca54d0be17eadb6492f425d50480d38f90e624c0125b0ba5b4a6a27a967ed4c1d5e50092136"
+        },
+        {
+            "language": "spanish",
+            "entropy": "1f7f085864d0759dc3979e737e26367aad2430027a31407270fe2faf",
+            "mnemonic": "boca verano atar riego ajeno rulo anual utopía insecto túnica mesón valor sangre aval almíbar donar delfín morsa débil función vía",
+            "passphrase": "IUapsZrCu",
+            "seed": "9a090a5bcd041f6144e7de31ed89c0d3b57611cbaeb14a8a74b372a014677f9ac88dbde5dbf53318e662825aeccf34462fc9464e3b2f7cba80242e24c2f8d848"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "塊 morning bidone ousadia hazaña いわい 언론 ぶたにく rompere 카메라 diametro vaincre 毒 电 ふまん 住 faint nortear include 德 feudo evil vlnovka じてん",
+            "passphrase": "LAtcFHtPtWtF",
+            "seed": "4988f31eeda806df3193d53c7e70dcb735b8c9e9ff5fa49a712649129537cad7437660a953ce5aad613691a39371ef8e2b458cc67dd2f62657a7e0096ed5b7f6"
+        },
+        {
+            "language": "english",
+            "entropy": "0e244902d5196555b552d71a81988ee2",
+            "mnemonic": "athlete car doll pretty north print stem foot box art casual series",
+            "passphrase": "MjQR",
+            "seed": "87ef882b76b79a0c986c159a2cd0b8ae8fe61a8d9efa244bb43af86c8a4240857c7757ea1d578022d8a39a5a6e3b85850c03a0b7dfc6c321a8d4053365e201ad"
+        },
+        {
+            "language": "czech",
+            "entropy": "f047c793199db62bc6ea10f3cf3c697fe962b87b",
+            "mnemonic": "vzdychat inzerce vize hlen ulice chrt dekl jindy zamotat nikdy cyklista zvukovod piha ledovka vzchopit",
+            "passphrase": "JiIepLCFGLtw",
+            "seed": "db32c6f29aee7d6cd2c78a7aa9936f48a0db4a1afb339a6c1938b6c3bbdca86db1ceec14a2ea7c7e1142eac9b15fd537349d219dd6cedb82df117d1655cc593e"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "e2426854632c3f99a8a60b18b9d377f043362f57484cf377",
+            "mnemonic": "伪 第 月 谱 乌 梯 浪 臂 常 迟 旺 渗 办 五 境 水 骑 拨",
+            "passphrase": "PRXQZGzqqmBAT",
+            "seed": "bab77a811b5c45d1733f6f3a714ce1e08790baaf20d704b29d169cdd8e757b712614d4af8302bfa47b3159cbc79878a9e7f237f006d0e602acd08cf597060e9b"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "20ec268f4ffd01c1f5bd8a896c4e33333604a4808992f061d6ca3ffc",
+            "mnemonic": "光 乙 睡 冰 蝕 湧 輥 挖 爸 拿 粗 歡 貨 簡 以 近 胺 政 勵 竟 役",
+            "passphrase": "MkRiEhVrPeQPZe",
+            "seed": "10f0c694024f01e7107f144290496931ea5ba330ec4a2b7a83b1e207da5db30313f2bb6de1e458453ab9cc38df1a1fbb230e160ac08eb8cb5112432fe94f02f1"
+        },
+        {
+            "language": "french",
+            "entropy": "65f852e7ef42a948e231cfa22e2bee3e45488b772377796ce38b2b69374f0e54",
+            "mnemonic": "février projeter pirogue soigneux carreau neurone jupon crainte nappe géologie virement huileux énigme dialogue siffler futur herbe filleul strict enzyme magasin nuancer courage lézard",
+            "passphrase": "eRqYzrVjt",
+            "seed": "985d86b4f469ef4951abd7134e559f02b542a65acad3ff72e24b38a1bc357ec3f44a53a472e7e6e036f14d27e5d83e36c1a288d74e0d863e6ed1ce460902ded4"
+        },
+        {
+            "language": "italian",
+            "entropy": "3e268f47aa2d49a039d63ecbc5a6c7ec",
+            "mnemonic": "dito crisi sloveno foglio solido simbolo titolo scuro setola civetta replica spessore",
+            "passphrase": "KEtwW",
+            "seed": "9df987e212e876515f07e138ede8de291b7a7469748924f9a6374cca4fcda813519cd28f2be2204acea471eef5aaf29f3daca81128e1ee48313a36d452686295"
+        },
+        {
+            "language": "japanese",
+            "entropy": "5fdc2cc4f2e6892d68b5433c1c2c682848b61742",
+            "mnemonic": "さんか　まなぶ　きこう　みのう　じゃがいも　ちゆりょく　てんかい　とたん　くすのき　まなぶ　うんどう　こそだて　だったい　いちば　いたりあ",
+            "passphrase": "rCEvc",
+            "seed": "985327df9c1960995e7b6a9889343118829965ba81a5a3b77b3f8389f9f0ab33677b9f668e5ba4c9f74132d345f155ac1dfbd25a9b1ca80303145fa090c306b5"
+        },
+        {
+            "language": "korean",
+            "entropy": "6273c26f6e223c6852719c93efa1e5584bc0b966ee58fbc9",
+            "mnemonic": "상반기 움직임 요청 침실 나들이 독립 밤하늘 도저히 예감 신념 시스템 자전거 점심 빛깔 요즘 지우개 활기 발레",
+            "passphrase": "PdNWhPCkrISvr",
+            "seed": "44ddeca3d29622963e3f61ad180459910373c29e92c6069a1b288f1d09b5bf1b9e1ed315226ec34f5e2d79624c93a500dcc8509f7b8d271b5427aa793f2e7855"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "1229808c850f9045532969cd1bf709040f5b3519d93b689b453d95dc",
+            "mnemonic": "anterior detrito bexiga agulha vereador berimbau dezena cajado reenvio socorro preparar afivelar vala masmorra ferver bolo fileira saxofone divisor cabo premiar",
+            "passphrase": "pVDMpxXdG",
+            "seed": "56db49c0ef08a58c0f4adeeee49e1b2864a4b0d96f68b99134b986f51104484f89db7dd939e41b9cb809fd70e4082124a13a43e9894e96296aac3a1ad376b7d5"
+        },
+        {
+            "language": "spanish",
+            "entropy": "70e7a531aef77b4b19ebbce5573a8fbcf602c53b0608a6e3dfeaa83c37d978d6",
+            "mnemonic": "igual culto enchufe freír junco orgía grumo juicio terco pozo opinar laguna gacela gemir tos rama oso blusa villa espuma rechazo tractor técnica rama",
+            "passphrase": "JOKtwUAterhxW",
+            "seed": "4c00bacc44264ce45f9dd28408dbe9b38225552b86c0700e50f691966e6626498230af6e7e8db4a76daf2956dab3a4eef654cbee314c16c6575cc79af2d15c99"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "curve hill biologia 군인 盧 厚 馮 étirer alléger city laminar 暗",
+            "passphrase": "NGPZDFKugdN",
+            "seed": "158d8cd7e0a07ae77c1842fe79cf0e076f24694cdb07b5252efda5bfe708b916b582849b6002f4a167d5dc2a2db8865ac1c220ad1b69f1ca176b79aca1320094"
+        },
+        {
+            "language": "english",
+            "entropy": "01b70c4db2c79361d0e31aaed48b16f21c486c8d",
+            "mnemonic": "accuse reveal beach grain junior rail drum globe put picture shield tomorrow setup curve dad",
+            "passphrase": "CsqedKMvAM",
+            "seed": "37bad0f76aacef8ab4d2f87d1b229307e32edc7385c8795670a01d429b5e36abb884139a68d3fdcd13799bf2c76dd9d7060fecbff6d6448111599592446bc936"
+        },
+        {
+            "language": "czech",
+            "entropy": "2a309850ab8dc53e00119ab5f2e51f2f630ec57e675b3185",
+            "mnemonic": "fantazie odpustit chleba kudlanka upadnout poledne adresa hlodavec rozum pipeta kauza lichotka harpuna lucerna zklamat vyhubit hejtman groteska",
+            "passphrase": "AUBscedW",
+            "seed": "7a8d7f9363915f3e2d8b67c068c3812605e3032e82bafd26f340297773dd24588c7ad1845e6ccfbc1e793b415068e740b31c17b8537d73df60de489c9731e088"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "159ae0f2f33c993620cd2441c8e28d78e0005574af3707d193859139",
+            "mnemonic": "军 掩 县 尸 锁 璃 瓦 汇 项 波 股 汪 的 离 僚 牺 经 替 肌 海 炼",
+            "passphrase": "SmynuMx",
+            "seed": "958833e248a6734e989e0bd1bbeebfd35da38a6fbd46a2987837dd589db385509e7d1f05ddc0470bd5872100b78b1065913e47f238cbf5d3498204b1bf6eff1a"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "a10f4f11208888ef4eca933f2c368993e46c487dfcb568b0910b31b99d72a4b7",
+            "mnemonic": "氨 沿 瓜 含 丁 季 育 述 失 擴 刺 安 葉 思 倆 禁 寧 刀 李 劉 夥 氮 箱 昆",
+            "passphrase": "oUbLIChnxYy",
+            "seed": "b32b5d1ad68810c2a44fbf87aec1d9b529517b951406b1032bf6b14c1de883da5c326052171aeaa6ef30b635fbceca225d37168a9b721c5340a24e74d05752c4"
+        },
+        {
+            "language": "french",
+            "entropy": "51b6a077eb77df2acf109aa068bf8f7a",
+            "mnemonic": "emmener pelage biotype savant ignorer maniable cueillir associer muraille dicter succès vaincre",
+            "passphrase": "m",
+            "seed": "04fa5ae1536d9a7eafb8bf11e61dd9043173ce4436ea1fec86b5a633bf145fe9ec5edc393f48390b8511d4294657b2f95c4ee2f84cd7eeb7f9b5527b7526dbc3"
+        },
+        {
+            "language": "italian",
+            "entropy": "b06321042847de14dff0ad126d2d3298603460a3",
+            "mnemonic": "recondito bandire dubitare fermento metodo ammasso minore austria ascolto ingordo evitato consumo adulare congelare odierno",
+            "passphrase": "ttJnDkhPSDLxcP",
+            "seed": "dcf4ab89ecc0a855b913e58afd8d6338c434ed0151d2efb5292e0f12986c3a7f6d9dc42b6fd799439b28acfb5dac23f9cbd741fe0fb682c451cee1dd75520080"
+        },
+        {
+            "language": "japanese",
+            "entropy": "e785c887d183dc83f907757c8fd77441e5af33180768c2be",
+            "mnemonic": "むかう　かんしゃ　おくれる　てんぐ　くなん　げきちん　みけん　やおや　そいとげる　そざい　ほけん　たいうん　さずかる　つごう　さんこう　めんせき　はせる　よかん",
+            "passphrase": "XahBWZcWIX",
+            "seed": "e1686279b479bbb67c869aa96b7b93ff633334973fcc5a0d869da7ddeb2a99f0b4044633d515851652480111cbcfbf0faa522a730b5780775f5f8d9fc5a1d26a"
+        },
+        {
+            "language": "korean",
+            "entropy": "56dca696b772ba937fc01c1755fa6e312e5d301194e4959ab0864601",
+            "mnemonic": "부친 특징 이동 손녀 다행 발표 흔히 갈색 구분 자부심 요일 상류 파일 온갖 바탕 우승 예컨대 초반 기적 여건 교복",
+            "passphrase": "oSxms",
+            "seed": "7c3adca63a6a0cf87969e58478fcef020ccb8ad3fb9d4096882e4c7113090828251468adc5b5775d02e772e0c73db90f5cf04e5f7d81519143a592fe2b7e1587"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "a3d044475755230e96682dc4dce7cddae02c62d59d154c811b39d04888e24809",
+            "mnemonic": "muito infantil anomalia operador durante janeiro entortar adequar pudim tanto tutelar pardal aceitar careca enchente morena devotado agasalho rejeitar mocidade jejum garimpo barulho coado",
+            "passphrase": "",
+            "seed": "626d0422c53b5702a05227e0b4e1181f8926f66aa8fd0a9e73f678dfae51f01aa88abfef8a52f3a6d1ec088a0cba8123e5579c0f744dff5d736806257068e6b5"
+        },
+        {
+            "language": "spanish",
+            "entropy": "3636ce5c7ec0fee94c00564895a7e041",
+            "mnemonic": "colgar plomo nácar voz apoyo isla chapa alzar ebrio pausa venus llover",
+            "passphrase": "Ma",
+            "seed": "294ade704fffb1d3f543278eb33afd0ac0c6c684be3acc62699e9e99069ef63e1e17104d5ad31e5d9e397c191b6ff7eb1d5bb31f652d254c448e04ecfa2d7c44"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "soffitto imitador さんらん ceramica fértil lucerna 育 arpón recipe rétablir longevo amostra 牌 誰 멸치",
+            "passphrase": "HPgyDLwyWS",
+            "seed": "31f6913fb5229f2602437e95f0069d7e94789549ded7b0ad6c4bdf332cc8b94db4613852b5eb44acc7d38066af6453bd1ff073daa136ef39f11f593aab157996"
+        },
+        {
+            "language": "english",
+            "entropy": "df398d710c572b45e56360a824788be7c357b3971ed05bbb",
+            "mnemonic": "tennis small fox board increase pepper night hire popular cat carry sort cube supply fragile sure forum success",
+            "passphrase": "zJhoMpxYHkNxG",
+            "seed": "4de8489c73a0ea68f22247bdcb7d585b3adc54d5982427a009dcb98b46b02afde834a776b78133856d6dbe8b434ffd747a4bc80a68a3803c59eba679bd6e77a6"
+        },
+        {
+            "language": "czech",
+            "entropy": "7af629cdca4cba21ca0f9062e31d5241c776149684a0a66e359d6b5c",
+            "mnemonic": "norek rezerva namluvit peloton sudost capart esence zadarmo lump couvat kritik odkaz nejen bobek labrador pecka pracovat nadpis mdloba trpitel taktika",
+            "passphrase": "ijhdyIYW",
+            "seed": "c8c5a894121734dd0e926ee2add03caac6b4d7117478f4cdb88f7b2845048d71e386f2dea74fd8894b567017a1f03f81840b86a98dff40f0bc0acad9d60f7422"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "12b60cb9f49a46196221557ef3a0f1d91aa130a6eb317ec8c2021ee48712c3fd",
+            "mnemonic": "比 仿 界 迈 休 把 丁 离 私 闪 调 幕 姐 岸 俄 渐 符 案 壤 铁 续 爸 全 苯",
+            "passphrase": "pvwyKShkDrHwVJ",
+            "seed": "c0798cf8a1dc05cfbe35a69934702c61d1ff5062e58a13c00032a85e4c928b56015a7ae218421f9460d39c114d84d7689fe258a7f5fcfac98b1eeb4e2e50b8f1"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "75c0be31c820fe116001546d2b4d165f",
+            "mnemonic": "臨 說 朱 塵 全 部 熟 八 免 頻 樹 輛",
+            "passphrase": "gwlLkfAtY",
+            "seed": "17acdedcb2e9d5133760af784776acf91a4ee4265b66745fec7d20e11091947c5a8a22621e40dac3fa51798e1a6b10e01e6c0be4284e7d8c352be9f725c24022"
+        },
+        {
+            "language": "french",
+            "entropy": "ac6be2aeba0589f85dcd2066a3451aa52be0a991",
+            "mnemonic": "opaque exceller omettre gouffre épreuve vision guide neige filature barrage dimanche double ponctuel enjeu divertir",
+            "passphrase": "OnoCeDhf",
+            "seed": "92ada6f024ba3afe2a2f3e5ad10bf30f01068718bc9c07cfbc05811fd1bf2148f8fd27f2f5dd1b6cf14649236bbedce9cfcdfedffbb237c9dbd17c9516abd3f4"
+        },
+        {
+            "language": "italian",
+            "entropy": "587f8ca87c2ca4ebe849988659fee4d6a0e0fc4e2e3e592d",
+            "mnemonic": "fulmine vivido certo vescica senso luppolo pilota cottura musica sillaba ristoro radicale anzi miagolare definito scuro funzione lacerato",
+            "passphrase": "srQ",
+            "seed": "f804dca353686cc79f0d4ec17568983afad7fff7dcedcda8c2e365b665d6bfed0590e8e723d1a087b41c59fbfbb28d6c99e95eae6a2c8cb56ce45088aa8cf7f7"
+        },
+        {
+            "language": "japanese",
+            "entropy": "882583999fb5c70cf5797dbf3efa4dfce78abcb9be096f0ba68fcea2",
+            "mnemonic": "たうえ　かのう　みらい　くわしい　さつまいも　だいひょう　ふひょう　きえる　のんき　りくぐん　ちけいず　りりく　せんえい　さみだれ　みんぞく　はおる　すける　さとる　てんてき　ていさつ　かんそう",
+            "passphrase": "vbbTp",
+            "seed": "960e2b7228e4fb30a759e130f8c5eb51b1e0708bf0c61d055a7a09f255ad0afc025a8c7fa1b11886d489df0458d220b58825f833a25dac4dc9bddf3bb0bedb96"
+        },
+        {
+            "language": "korean",
+            "entropy": "f0096a98aa2463e1ce06385ea006838f43358e6512595bb3b5b5aba57c3818de",
+            "mnemonic": "한꺼번에 방안 이름 본질 바이러스 한문 만약 중년 사설 가끔 유난히 금액 도입 중단 예산 방식 비율 운행 소원 북부 분리 그림 상추 캠퍼스",
+            "passphrase": "alpctmmonYBNcxy",
+            "seed": "a1f781959df12dda5ed9b21f57e072aacdc1cc252b35c91d0c40611a0dd25541d5edd23f60911737d5d3dec1f08c532afca366a4675f123e7cf96e688c3719b9"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "0630ced5c3c5b008840cd920c8f292a6",
+            "mnemonic": "adiante irreal papiro janta equipar aclive amparar matinal batida degelo murcho deusa",
+            "passphrase": "kXmIZTcKpc",
+            "seed": "4d84394a3c4aec1936367078327f1993d0c39930a51b9bb39386096b6f92f6b74c6147e44da28e8917c86148fba04d843a0763ce55705325449931efd0e38082"
+        },
+        {
+            "language": "spanish",
+            "entropy": "baa6028584f93d7aec8a35a0c07979dfe6f84367",
+            "mnemonic": "previo chapa oficio almíbar mosca puerta pétalo dos odio acusar frito quieto humilde bóveda obeso",
+            "passphrase": "",
+            "seed": "58eb851bfc48be134311d2ce44e6d6d9156f6df3e7c362cfce7c739c32eec45267e0dc40f42cf48635430bac56603e9cb3ca8dae254e0d3f2fe4d242f3644b89"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "eco 撐 乙 たんのう hungry blanco hudba sossego blossom vyjmout hlasivky slezina 磁 はむかう tepna 被 pohanka desnudo",
+            "passphrase": "fVfEjE",
+            "seed": "3744647559964cba89d547e437c4ea38bfdb8706d083e8bc2570e1365f3337ef89e10323160b88c31e5b6de8d628946c7d51f89c2f3910e4a03bc0e24b50e595"
+        },
+        {
+            "language": "english",
+            "entropy": "29b6f9028323eafbfb052c4d4a46efe4a7f7095c1f1a67c36c7f5074",
+            "mnemonic": "claim result doll alien dirt law ugly pitch essence fall room sing legal lucky idea today guitar bread cabin path easy",
+            "passphrase": "nYagRAhpPtKnu",
+            "seed": "e6b5caaecff8b30208ce1c820f8ba8a769f3f288792546e99b93431d9e8cb98522e2f2415c9b253251132f24bffdf0bad7b2b07444e20bf4f9864249596f84ac"
+        },
+        {
+            "language": "czech",
+            "entropy": "df86803bd91d3d692007b5d47636e87f91935861fab8463ccf7960179784c08f",
+            "mnemonic": "uzenina hmat budova rokoko tlupa rozeznat obsluha zbytek torzo robotika sejmout zvednout ctnost pusinka okovy kudlanka kapka vnucovat utkat sladidlo nezvykle slza asfalt zhruba",
+            "passphrase": "jqXZTb",
+            "seed": "6ddd96a2450ec6e5ecf2cff78f574bef444c37b8b1279fe0f6e3d5b93bc5cf5b03035437c8ded74f1a4a342b80477ed80a7056fb7c156234be9775a1f6558cea"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "c46a47f6bb112a9b709b66d3dac42799",
+            "mnemonic": "浅 站 坝 掉 比 吃 挤 脚 棒 鸿 自 近",
+            "passphrase": "",
+            "seed": "5e477e63fa95ab3d01bf0969bdc7f3c13fd6f5343f610e44eceffea6b65c819ac7abe747aed9c8b002b7d7f958d4fcda1988e0efbc7e2d758415a8ba5c8c9458"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "4753fcc7aeb7bf1e5408fa342f6c25b163341acd",
+            "mnemonic": "僅 冰 斷 印 奪 貫 創 必 約 航 如 醫 半 合 便",
+            "passphrase": "x",
+            "seed": "0c38ab09275e68b91151d32b8c85748e68844828a59ce31a63d951b8b5102b6222d91d88ace26e34fbfc1f7ad440d3432e0cdc4b8c5c1057e816269e5b5232ff"
+        },
+        {
+            "language": "french",
+            "entropy": "61a83599b8a5f6bda4548c03ac6c329559ed6e292747fea3",
+            "mnemonic": "fable délice fidèle géologie excuse exagérer lourd louve acheter fatal analyse carton morceau perplexe neutron taxer voter bassin",
+            "passphrase": "SwBNFNPeV",
+            "seed": "c8e42afda9a52e5e499b0c6028e85f313a67a479d7e7185230d44935d026687e9406af5eaaa13b3be79c7a781c3db990c30cd4025fbdc4d81305fcf34f4d69ff"
+        },
+        {
+            "language": "italian",
+            "entropy": "ad7d95462e74d4f3a32992b5bfd35474510aa5e55bae2cf5b8d4bc7b",
+            "mnemonic": "radunato tristezza fiducia gene fachiro maratona obbedire corpo righello zenzero solvente topazio argento flacone otre lupo cittadino ragione crusca manifesto risvolto",
+            "passphrase": "dcQNLLaDpJ",
+            "seed": "6089159585b62d1b47a65aa7f67bd97853625a2ae6675423c817e94625ff3a13abf537571dbeca75b79e07d0cb6e718713d48907295da51437ce9f5e87f4d758"
+        },
+        {
+            "language": "japanese",
+            "entropy": "3a0cc4ed1c54ff80a2cef346bd0e13c4160bfeff04c08e8b851fd179a9d8e24a",
+            "mnemonic": "くうこう　しはらい　くさい　ぎろん　こしつ　はいすい　だっこ　ほたる　けぶかい　むしあつい　だいじょうぶ　たうえ　さんそ　わしつ　れんあい　ついか　たれる　ざっそう　けんい　てんき　つねづね　めずらしい　たくさん　さらだ",
+            "passphrase": "LmLZWzaOYStNc",
+            "seed": "95010c380e5373fdc85f390e8d344489c998b7e7ffa769149c79fc76c014bd3d6eb5caaa9718999ff5f54a309f1fdc2f30c9dcab2ee6bb7fefa4a94cc0d4c6bc"
+        },
+        {
+            "language": "korean",
+            "entropy": "b4d92f783576e1abee8352947776564a",
+            "mnemonic": "장식 지각 코미디 세미나 소풍 초순 전용 성장 예상 절차 예컨대 예금",
+            "passphrase": "XZGB",
+            "seed": "b974b2b0014a464bdea5c35c1a2c5281a034068141b3f913b5404a0cefb26743880938f6359c17059f61f5141e1ea896b3c97b371edc3682cb70a0bc95c173fc"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "ea98a2eb2ea9dc346fed53f4df97ba4d0fcc61f7",
+            "mnemonic": "tese pulmonar pessoa espanto mesquita atrevido pomar nupcial usado visto toupeira marreco vitral capuz sensual",
+            "passphrase": "zYdkknENzwQkLPQ",
+            "seed": "510f993e6bb20d33306b955143e8ff0e9f23abbbb051f6687ad475383e16eaee2bbbdd3df24aa192b89a616d0ce8a7af2a693a30c16bf3ca8aa03c2265d29672"
+        },
+        {
+            "language": "spanish",
+            "entropy": "03c79dbf725c9230b85af1a2258c4c0f50871f1a75d3f064",
+            "mnemonic": "acusar culebra hundir tener revista avaro taquilla fresa ola caspa arroz blanco alegre minero hacha prensa tubería caída",
+            "passphrase": "mIKRSTHFuDl",
+            "seed": "56ac89017fade3e56064890d4ff00f41cbde63362ab9a7460bfa5a484b1690a511fd7cba2059b64f2a947f8a7eca4c57b880a044477cd4351981b6e571cc7903"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "정반대 vajilla vyjasnit inchar 烯 impronta 恨 doklad 集 zahrada halenka 목소리 niño 若 revivre 與 伸 kotel donjon 退 ひっこし",
+            "passphrase": "zEEY",
+            "seed": "b88051b7ce8dd67273a9a78ddaf32ef9185bf0ea718f96aa5818c1095c264001b87e578bfc4f5804b5517e59bb118d285e3dab7a212905abf50a25de8dc35669"
+        },
+        {
+            "language": "english",
+            "entropy": "f7527c545494ddd0e34011a116911b2971df9eaabab2083ab4667210ce42326c",
+            "mnemonic": "warrior negative bench powder evidence trick minimum acquire patient region egg fancy bulb soon priority film amused stick book tomorrow artefact canal situate museum",
+            "passphrase": "qCRlHLPllBJEgY",
+            "seed": "840f386b16a701ed3f9d9e50cade1cfa509823f02232f1ac9afb465a7c0b8951fd2062fc37c3e5efd37236f8a714efb3e3d1a1a6b460ed759b54105da26cf142"
+        },
+        {
+            "language": "czech",
+            "entropy": "2868bd27436ccc1f386103688bfc41a4",
+            "mnemonic": "eskymo kapela klaun ohnisko svatba bulva vegetace domluvit mezera linoleum bydlet keramika",
+            "passphrase": "mkhXDBdTMdC",
+            "seed": "02d104eb4915bffd6cde5532d17c47e055468a67daa377388a1a432503e1404a7bc9a229f95bf64b8b3859883ae49264c70432f8786a3e75a47eec548704ac48"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "0295a5e10bc5fb4a9bab6a547ae111acbde423a0",
+            "mnemonic": "时 浆 款 展 菜 磷 祖 背 请 掩 材 盐 吐 你 麦",
+            "passphrase": "xEMqyLFOpUr",
+            "seed": "008a5ce319a2c7d7e4b04fc1a3fec0b430f2ef2fa05100df0afc1c48ed2a238ef236e6197dbdb83a100d07b9f4fd2badb8a2eb9745af6d98b8beb3d0be9225ea"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "c5502ef8e524f73fdb6793f8e5cdcdd74319db24e21bde54",
+            "mnemonic": "暖 徹 騰 賞 吸 冰 福 誼 淮 界 抓 咱 非 姻 紛 輪 吐 磷",
+            "passphrase": "TFxp",
+            "seed": "93ef5feebb933a6931fc3d946be60321fc39bdfb1eba734691689b5587e273a7d59ec77b11537f974b555dc87075fdc782654044e8794c4e782f4c714ab5982e"
+        },
+        {
+            "language": "french",
+            "entropy": "0a47aca49a411ba2b0d02387f1946d553f32fd17e2d6ce5399a9b5e6",
+            "mnemonic": "allouer curseur caporal coder arpenter romance prouesse acteur journal léger bélier odorant unanime imbiber exécuter essieu rétablir minute forcer fraise flamme",
+            "passphrase": "OreAfyIRdCxoV",
+            "seed": "3291e00ca57b83475da11e6aa3f535ccf4a7ad93e012c149c83e9b9e016f9f9d4d5e6e4118cf615c21b5b0df237cfb1d71a01447552891ef518c85f88789aa93"
+        },
+        {
+            "language": "italian",
+            "entropy": "90c3c2f1fd0715fa8deeb2413209b9bf19930dd61604e68d1e2ae0a13edc44a4",
+            "mnemonic": "onere bisnonno rosolare vigore lessato voragine davvero sorpasso ducale ombra lacuna miagolare parabola nanometro fuggente sarcasmo tinto inflitto nordico saturno asta lacerato asepsi omega",
+            "passphrase": "B",
+            "seed": "8bac2b9f81541c86f00c10b61868e9f820e9a65a383d1f71504d8982b8420d3dfa92798ceaf934039e1f2c01388cc8bebad5ef7e03b734c23200f6d1b3420b82"
+        },
+        {
+            "language": "japanese",
+            "entropy": "577bc1de5aa636c8c6ceb7d42f9fae0f",
+            "mnemonic": "こんぽん　ほそい　せびろ　にんめい　したて　してき　えおり　ふりる　ふそく　そうき　めいそう　おうよう",
+            "passphrase": "eDYGAlIzXDeqNLmv",
+            "seed": "90ab6beddeead6dc2fc1e74047d210fc4afb8bbb5e7be178aa0aeb78e1b0f7b3786748a841ea69e3e8d668f76bd1afb1153922ce4cfb4366e559651e8cca2e0b"
+        },
+        {
+            "language": "korean",
+            "entropy": "e4363b45795d1c823d5f95ed81d015394cb727f6",
+            "mnemonic": "퇴원 작품 창문 항구 채널 무척 향기 항구 하필 고민 강북 수염 지점 예감 추진",
+            "passphrase": "PKjd",
+            "seed": "cd41ad58b58525b224329f9c273cb28523e33dc4f2dbe624ddd334803d2f7f2bf976a2fdaa602ea6dc9ebb51b69e767fa8edd49870ca9dae4b280380bdfb89c6"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "aea7c5b847059eeda3a7f1b8848cdf48da4e9e505e502f37",
+            "mnemonic": "operador conhecer frustrar lazer entulho gradual legendar vulto penca bimotor chuva linda museu diurno cratera rascunho caneta policiar",
+            "passphrase": "vjKtOeae",
+            "seed": "b9f88e318b0a4a54bc8657bec4acef9cd09cb96e3437f4c3e0c9d3dd4af61cec05636ef1239ec118205eaef30bcb32e6ec0d805b58fb3075109d5e4eb28407dd"
+        },
+        {
+            "language": "spanish",
+            "entropy": "df5769b4e653c418bb10f46da4b97ebb814e6e2d4bd9524eeea84681",
+            "mnemonic": "tabú proa hoja romper cuento amparo toser bingo honra cabina furia juez asombro comida pista largo examen juguete panal mercado arroz",
+            "passphrase": "LR",
+            "seed": "83f8805cc63b178c1630091bb1d8b2738e55c417df8a14b558568ba38af1376d444f02656a9f2e6ce9d5e0ee88b73f8155946d860176c53dd8814f62c571b0d0"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "せんよう orafo 손님 ずいぶん loudal matutar adubo 烘 몸통 splendido 彎 座 rinvenire ticket きねん antena misil crouch 방울 sladidlo terminer ribrezzo saluto zrzavost",
+            "passphrase": "",
+            "seed": "934671ff4dc700d93c60818b72084a1f204d3ec914b705290a972b4b7ab5d463bc3fd972d1e4bdc6c43f05c2f1377e9d8624c80f28ab0b5725a2584f2f152a56"
+        },
+        {
+            "language": "english",
+            "entropy": "318a73c9f66cc41a809fe04e6a9f8ce8",
+            "mnemonic": "cover fatal venue under slush ask act winter example female tobacco spike",
+            "passphrase": "ZkYheMgupxN",
+            "seed": "b7554480a522650df126bd173f6566d5fb9ba9602a23907c42c95127ec58d08c473a0878a37ea3d23927a7317cbfd371e99bff3d8681487f54cf9514a18b3c0c"
+        },
+        {
+            "language": "czech",
+            "entropy": "e6ebda7aa70b571b85c29bfca5693081fb763062",
+            "mnemonic": "vodoznak lichotka pokrok komando rozpad ostraha chystat krajina zoubek filozof knot badatel ryzost citace okruh",
+            "passphrase": "QBVvieptVxTs",
+            "seed": "9e35bc35e5aea4fd820359e99f2593285c4522575575f1532f804013dea9c446208860c935f868bc69387b0f7f05159d94d7ae276c303eec1d95767f774d2560"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "0689e63b764422a649ebd0e6fec9abdf89146b99b8e06371",
+            "mnemonic": "方 飞 弟 呵 球 草 带 零 牺 窝 蛋 妻 警 何 沙 知 刘 尺",
+            "passphrase": "NmKywXZmg",
+            "seed": "6cd882768b0d34885c8dab2916777162e9a1a2f394970fbb7d29619eb6183b9ff8b80f373f1108e068913ee942e284a346d49a21944732d1e405f2dd5c99add2"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "25d39424e1a02143d9a600c9c44f89a4174ce8b9b89c54058dcedd0f",
+            "mnemonic": "改 掛 力 吉 我 畝 械 砂 恨 海 症 朝 衡 綠 犧 道 宣 元 胞 忠 胺",
+            "passphrase": "bofHbYxeUZlmL",
+            "seed": "cea1fc95f1a96af769c1b30e8983131433f52a6e89fbbe0f8c4602b11da1275ef5bb70779eac420f4bec2c9d1f887104958a618cefc41b2bd4f4b301b190e889"
+        },
+        {
+            "language": "french",
+            "entropy": "0e303b4755a6a1e2873b157e22e820c4884d45809e94873223672216178c33fa",
+            "mnemonic": "annuel ingérer roseau olfactif fonderie tuile bidule famille illicite avouer agrume justice invoquer nature acajou rouille jeunesse loterie semaine désobéir extraire racine rieur diluer",
+            "passphrase": "izRnnqWtsCvMDjX",
+            "seed": "ca9e27920819b7d52f4c849fb0ba5235cef579ad211888ef993c48b5a96d45d44da367220bc97072d9ad813d9d3491c3dd73276fd16e7481bd1670d48701ce64"
+        },
+        {
+            "language": "italian",
+            "entropy": "ef330a66ee48d356a407cc8396b3b52c",
+            "mnemonic": "uccisore palo pari stiletto obolo pugilato omaggio vicinanza morsicato rigettato troppo funzione",
+            "passphrase": "u",
+            "seed": "52e39fe7d147356cde01ef5b60e0500e00b4cb9f46bd320bf699d0a1fe0ca3774f45137dfa5dd4e91e833a5d5b9d51bce1cf0a2de7e76939ac686aef6dc78c0c"
+        },
+        {
+            "language": "japanese",
+            "entropy": "b432877f19e212acbb94e5d7b4737c5aaa008595",
+            "mnemonic": "にんずう　ちせい　ほんやく　きつえん　おぎなう　こんいん　もらう　ていおん　ぶんせき　てんし　ほとんど　にんめい　でっぱ　けさき　こわれる",
+            "passphrase": "zviXOnfpPIP",
+            "seed": "0142795fdca0ebc97f6cf11ceafdc963e5a30202b049ece52dc7694e7da82515b7126b4fc1c9a555dcf92b1ebb7a8fe20015da0058e44c547623e093d90277f5"
+        },
+        {
+            "language": "korean",
+            "entropy": "aa9180ff88f82582d05f199f62624e416a5aeabd43476d60",
+            "mnemonic": "인천 여건 무더위 공짜 아쉬움 조금 문법 통역 월급 과정 옆구리 아저씨 이동 숫자 행사 설문 소원 가르침",
+            "passphrase": "iWBMa",
+            "seed": "f78d39630e01530fca9774d38f56e11ac2648ec93c4927efdffc0a6b58beef94241fb53c3c6cedd6b9492358c2e356ae665a352b858a5403b55fb873e8c5f6fc"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "0ce59623ac245512a5c90b1836f4610c993448e01e70b6f7e1fadaa0",
+            "mnemonic": "aliviar cafezal jogador enquanto custear jorrar mamilo beijo assoalho pediatra assunto atender lombo bimotor imunizar regra patrono poetisa ilustrar papelada acoplar",
+            "passphrase": "jtCOMjihJPu",
+            "seed": "427be0dcea817b9738dde7d197774834af301df2daa9cd23f6e8369f62c1d9cab9ac345210a12683bcb26f313899ea7952c8ccce93660eb3664de133e40ea766"
+        },
+        {
+            "language": "spanish",
+            "entropy": "2afe9202ac964f81d7c72fc68d60a571dbc2688dce38fed106a0e3f9f335b82b",
+            "mnemonic": "carbón vago linterna figura golpe raíz fuga tesoro remar helado canguro tejido prole cobre cómodo rendir yoga mano pacto rescate oca niñez tango golfo",
+            "passphrase": "JRQVbQtci",
+            "seed": "1078da3332d178ee86580c13ec4af999e0b487895af8557c6ba180b736f3082b6a71c5cd43d3f7a2a1d5b1c8e67c7c88e1a131b75e76a36b5c7e38a1dcb5fd19"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "수학 settle 학급 exalar 巡 león uragano avviso cycle avance 肅 区",
+            "passphrase": "GDpyhqc",
+            "seed": "e1d3a06d6537e1a3b7ccd45f6377210b29f2b490951c33b84f21f9eea3c56368f86eaabac8f8b574f860750cc4914fdb9b7ef014a3704110ccfbdecdf52f6b52"
+        },
+        {
+            "language": "english",
+            "entropy": "07bd4edb909bee01c0b222f8190e2b8ad236380e",
+            "mnemonic": "amateur tuna report cancel same abstract actress dust way silent memory between casino bright deer",
+            "passphrase": "jUsyxBSOUS",
+            "seed": "cd115a2d903221c5a88038cf2ab985ff660e5583799173b5bb0851bd3df2f2a6f5b9852f9c6b4d9c001455da404e1cfd92b89c93bb84d22dc638e1dd12cfe986"
+        },
+        {
+            "language": "czech",
+            "entropy": "c319b302501dd2d520b499002a5014c907553880e5588894",
+            "mnemonic": "smog svorka slavnost pomsta usednout mixovat odevzdat pasivita abeceda kousek balza panstvo nasekat podnik bachor pudl okupant pozor",
+            "passphrase": "zwvNfHLvUP",
+            "seed": "003c5542a221a5b8e651910f323a9a71fb8af3703bb960aff4694db3a1375778085059308b745810eade23e8bcc19ed123bb7bcde637a39cf4283d8246ed3f65"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "ac62ba1321f68fd309b2fe2c8db0827b81bca1e0e6d0ba8a2d322247",
+            "mnemonic": "催 情 迹 围 贵 酶 风 味 况 福 南 葱 统 古 筑 厅 抢 跑 城 排 纯",
+            "passphrase": "",
+            "seed": "58262232a9b7caebe7922f037b5940a4d77666b56c3ce8111c8b5248b19cb31eb8debc867f41306bbed897251ce066b2d390f69a0aea8b4f78d36d12c6464906"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "a54cd636f7822adda373a8d8f8fafc2eeb0ec1cc386cae147a4fb63edd177c2f",
+            "mnemonic": "磷 掌 購 雛 東 皇 磨 孫 宇 緒 妻 括 麗 普 容 還 鈉 睡 宋 臉 宴 忽 浩 犧",
+            "passphrase": "HvLmFMeO",
+            "seed": "3a5a31ef374c9b85ea22b9641bab4815df4f431ca457cb431ed075b369c19113ef319e61972273accc47b1c2bd1caf868f28c293196cb1d96f638e890b2b6bba"
+        },
+        {
+            "language": "french",
+            "entropy": "a9e1d07111fdcb804d54c184959b44f3",
+            "mnemonic": "octroyer anonyme besogne broder sigle pratique coincer méconnu inventer opportun rocheux tarder",
+            "passphrase": "QKMHyPkammwn",
+            "seed": "45b7f00461885f90e83bf034ae21a7a978b83cf994dbcaf551adde4c417afb586f152c4645cec7f0e0e93cde1eaad25c26f165ee7d56298495b3acc2bc1341b0"
+        },
+        {
+            "language": "italian",
+            "entropy": "3ab3f51851178624628f5997c0aca493998ed190",
+            "mnemonic": "desiderio piattino enduro piretico mana arzillo nocivo trasloco pagina aguzzo celebre cartolina paonazzo infilare elaborato",
+            "passphrase": "ArOr",
+            "seed": "bb86076584292e69b183fa99d5d4a766d9f9c72c486c98162110b46d6b9e2c711686481eb350c527b6e0cf8a64fe6225c0f7a6e093799fc8f4d5971277d15d28"
+        },
+        {
+            "language": "japanese",
+            "entropy": "2e9596c510888c8b10dcaa548c189cef7c7595b5a93cc64c",
+            "mnemonic": "かんたん　なさけ　にちようび　おかわり　たかい　けとる　げすと　ちぬり　こもち　さんち　おんちゅう　ほったん　はんこ　ひさしぶり　ふよう　かいが　はろうぃん　しめい",
+            "passphrase": "FsPU",
+            "seed": "abe5f0b8417b15a49b2391303dc150ef990e95b2fe06be612d0fe382583244ead2ae8e86d47278e359beba34c552de3febb2f2f728cc0498cfece9682e6c8ba6"
+        },
+        {
+            "language": "korean",
+            "entropy": "33d21a997300590205fce10fa915607fe1c9318e19b1b36fac592ab9",
+            "mnemonic": "도중 연합 이민 판결 강수량 심장 구입 용어 골목 발레 분석 흰색 극히 올림픽 만족 마요네즈 장기간 신비 교직 부문 열기",
+            "passphrase": "W",
+            "seed": "00f21a961f4758bb60aee42803e6767c2a7340a99f77cee100f1b99152476831951c32a81f1102eaaf6b2edf3384253cf3c90d7503f95ce4f858dfb24f52b5db"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "8ee0d709d805252e777d1b59b5464fa36e1d475ca573c5cc7705adb7e04bf23b",
+            "mnemonic": "leiloar admirar presilha oriental duvidoso mamilo silicone moto entortar nudez lotado decretar sotaque muda gelo ontem puxador fada prato errata iguana blindado ranger exonerar",
+            "passphrase": "kefHOlNlTc",
+            "seed": "b5d27810eb2d4870aecf538f87dc5641beae931f77de217a04c5149f35d7ad362a5a7125e63924b6fb45da16f895d54409ba53cbec6db185f406f76e3dbc849b"
+        },
+        {
+            "language": "spanish",
+            "entropy": "f36314b003c3ed1cca0a6b1b42f2014e",
+            "mnemonic": "usar avena casa alacrán dama miel calvo enlace balde aula línea nuera",
+            "passphrase": "EIXXlLFgNRZE",
+            "seed": "ea64a01ea5b1214ca53612f99b0d30af9318a040fcf61959402e90f88ad288d6689d4158fc80fe35fb689796ea5be2f82e7921eacb23297e9e5ca139d67e6dfb"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "pottery varovat 执 estilo natolik mountain recente 谷 inox 闷 giro ropovod demanda ottimo ひほう",
+            "passphrase": "FSeysLSodIpbtqai",
+            "seed": "259cea210ac322d4136066555dbe19da7c87b2a0f0f02cf530ce6a62937d9f1ea6cfd0f1a00f7dd1a792c62640b3568f1720655c40a67c4acf8ed3be0692d12e"
+        },
+        {
+            "language": "english",
+            "entropy": "27a86938250aabae1df687a39a07e7a7391b6b313ac217d2",
+            "mnemonic": "chicken drive evoke energy primary strike jelly special phone south wheat example museum remain shaft flame blind myth",
+            "passphrase": "CQlBPBNraa",
+            "seed": "ffed07c70bf694b19b7bba67353116c8a2243dac2804d6385decf1ccaffe5f02acfd145ee380a35036a422c5eb6539b2ef2066d0ac45b19f238d9720abc9c1d1"
+        },
+        {
+            "language": "czech",
+            "entropy": "5910957885a4a649dbfe556063e5c2c36b3a220f9207788d708f59dc",
+            "mnemonic": "kvestor odpor letokruh bolest klid drtit mumie struna lobista dojnice myslivec ohnisko roup carevna ironie jelito nerost mnohem drak roup sykavka",
+            "passphrase": "nxddpJXJ",
+            "seed": "39677957715d5a1f1bf863b8e83cf2372b5cf407df1ec8d1a39eab9ab28a3a3308f44ca8040c3011a6cb7eee2fef601b4298550e45a36d2d9d70b217ea9b5ba6"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "918f4281745ac6c04323960f9e14f8391a26042aae80319cfe24828b8ac3a7aa",
+            "mnemonic": "招 零 黎 扑 催 湖 去 雷 平 浩 严 庆 刺 我 琴 蚀 非 锦 迎 同 螺 银 芳 纪",
+            "passphrase": "MVCy",
+            "seed": "5b98be793e1e74188f38b206fb10919dfe1fafed72323eced3bf51f510bc652b04fcd46be930c090e8fdc38002b62321b5d663b3ccb89cb0471d5bed0cc5f434"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "e3eb961c4c698e01b54ff6b4058e69c3",
+            "mnemonic": "傑 央 獻 藏 姑 有 炒 彭 寒 元 辯 賣",
+            "passphrase": "cTRcLkaOf",
+            "seed": "2b31a5449601eefd6a59d3f2fa22cd397db3f6773599081ecb24533ad9cca64e9fc4314f47dda5a221c9ca1e6df190cbb7ba82377b65ec0564dee429c050c6ad"
+        },
+        {
+            "language": "french",
+            "entropy": "fd20e0c6e4518c128839b2aff646829c02a1fb9c",
+            "mnemonic": "vivipare affiche circuler réclamer balisage alchimie bordure commande oxyde papyrus murmure cordage caresser voiture glaive",
+            "passphrase": "Y",
+            "seed": "c314c3d79c9a8777b4d29dc7afbd07c9351a088e20b8726ee81141f0ab400135ada2a28ab83ec2a2197d73515c535c746cebd088274c678b7f63eab448b7baed"
+        },
+        {
+            "language": "italian",
+            "entropy": "4f2731193e69b56e195af6884571ad399864f1a2ca7282f6",
+            "mnemonic": "fato demenza enfasi mensola pedalare rinomato imbevuto girato negativo chirurgo inumidire lira musica mangiare notare farfalla monsone regresso",
+            "passphrase": "C",
+            "seed": "3c4dc7b256af20d9c7cd1147e9852809193444acf7c701a4f5f0e8f5b61908bc015590663dd8de13184f5bf572cf62d8125f80a7503c30d4e66baf59590bab77"
+        },
+        {
+            "language": "japanese",
+            "entropy": "2acd0dae10fdcf475a3520085d288c73a3edafea97a4fe63d1675efd",
+            "mnemonic": "かざる　しゃおん　しょくたく　おくれる　ほけつ　てんすう　しゃくほう　てんとう　いけん　むすめ　おじぎ　むえん　くらす　ぶんぽう　とまる　よしゅう　ろんぎ　おいこす　さかな　のはら　ふそく",
+            "passphrase": "x",
+            "seed": "f47f293e6144224cc00e7b27119ddb280d12cf917506defa83f910f5adfeaf4ebdf6a8134d1964f2bd492c6918361315ffaa94f817202f47b0b15e2ee40f9e48"
+        },
+        {
+            "language": "korean",
+            "entropy": "af231dd3122fda5d66a9f41f18c6b3847ef36c6c4349d0796326f2074693773c",
+            "mnemonic": "자가용 국민 순위 나침반 후반 당근 외출 목표 긍정적 준비 일종 검사 학용품 재정 작가 설악산 참여 지우개 지경 퇴근 순서 발표 칼국수 영국",
+            "passphrase": "epCsybnWyja",
+            "seed": "b887699be61d779bcc7c32728e0ec966a4734ba3883eea48ac251e0657178f75fdb6ef815ad09c3f64079ff16433c362e20fb11d6d52a59cf0f73a220730f20b"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "9f4c4a64c73ad036f388540b2d82bcf1",
+            "mnemonic": "milhar explanar maresia legado ogiva autuar reinado alameda albino forno orar suavizar",
+            "passphrase": "UQJPNfAlSWuRI",
+            "seed": "c75c70dbc7b897f6e170b55ea92e8250d4f81b094e9755a6fcfafdeec4c4019d16891f039910769b3bc874dde2f71168ecb58180aa0e27298ca64fc7ee990cc5"
+        },
+        {
+            "language": "spanish",
+            "entropy": "4e123a378c5f9f9d4949071ebdbbb48a1e89f646",
+            "mnemonic": "entero moler método avena vídeo ruina buscar bonsái blanco trazar traje aseo tira violín avena",
+            "passphrase": "SwQ",
+            "seed": "7a19ceca411aa213527fc2309e2a7ba3be065aef0b156901c37eb57f80229110eedaca8776a80b239c155e3d46d343cdccc0a7e53250067ac7c745a799d4d9d6"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "velmoc 운반 esfregar 桃 tesserato fumante にっすう mente pakt hoblina stove 办 run opakovat taverna quarter famous embrace",
+            "passphrase": "Vt",
+            "seed": "f35dea9551cc27a4542b7a0f6cac0a3eb05d548fd0dd6ac433705a5934dcf57ca4b642b807a586181205ba1fefcedcb272ce0ae8ab27a2e242d39ad1c9d3040d"
+        },
+        {
+            "language": "english",
+            "entropy": "dbec3b23679c806189a68671ce14574ea2e32649dcded57c4faaec4e",
+            "mnemonic": "swim gift silver song siege cotton charge speak impact idle beyond outer comfort nasty cherry orange step tiny turkey sudden travel",
+            "passphrase": "txpPDAqManbDPK",
+            "seed": "723524d5e1e0dad0a4e055d2968fe4310f80a7bb36894a592a2fc2cc6264013f2d78445583bceda92b8c108549504f14b78efb11dc3add5572297b186bdf4103"
+        },
+        {
+            "language": "czech",
+            "entropy": "75309b1343dc03d62a8582cb2ca642a58b296c830ee82664c07ff15d287c6ade",
+            "mnemonic": "nasadit odpustit sotva okno sladidlo vyhnout prvek reklama styk malina pakt klopa ropucha ruchadlo boule urazit dynamit dutost doleva verze termoska inzerce pukrle suchar",
+            "passphrase": "VGOn",
+            "seed": "54caefc70683714d0fbb2a528979c6c040f4d36ecd7819c6dc30cb6379316766d35fabac161e6a916ac05c9737a9a9b25825a75e6c1c43629aad3f8593c2cfe7"
+        },
+        {
+            "language": "chinese_simplified",
+            "entropy": "da917a70c9a1eedb60355e5a90b7f04d",
+            "mnemonic": "刷 托 喷 吹 被 买 欧 穷 逐 退 哀 秀",
+            "passphrase": "mUsyEdFjwdciRE",
+            "seed": "49fc350059b78d3df2e7fad914a4af9463dc31e295782722dc46294d7f646877f4a411a1972ce8bd4a3a1f804185221e3ac30876052a7314f5c923b4f0f2bd3f"
+        },
+        {
+            "language": "chinese_traditional",
+            "entropy": "ce8f89cb7fb6c389b05c0483026359270dd00736",
+            "mnemonic": "遲 稅 雷 吞 縮 燥 臂 壤 荷 質 旦 職 覆 於 雕",
+            "passphrase": "TxDJG",
+            "seed": "2c3a238bfbe3ea4e30bd7956f3918b893c5c998a0bbb3eb2e6efeecff9cd99b3ceff4d450132b87590798378f09025d9f5f04e01531a8120736275e5436d669a"
+        },
+        {
+            "language": "french",
+            "entropy": "79e12eb17a843211c5bdc18fc4bd67bd8be75c3089be9e19",
+            "mnemonic": "hésiter alerte opale vacarme déplacer ajouter avion phobie lisière buvable espèce homogène portique orgueil profond corail monnaie revivre",
+            "passphrase": "RWvRJ",
+            "seed": "c791a96b25b4c510fa4d85e63dbdf7158bc49ecd6c30f0439c11b8738e33c3ee4e45520a430339f473111084e0f18be9e01e88fede2ae882428e3bb197535221"
+        },
+        {
+            "language": "italian",
+            "entropy": "5e2e785f7512041670dd3cfc60abfaca55273b78f94a9c445d5f2fa7",
+            "mnemonic": "ginepro livrea badessa trachea bretella ampliare scabroso prefisso vivido agrumeto zerbino ospite fiore permesso tecnico cellulare penombra busta frugale giurato lusso",
+            "passphrase": "qohoLpWNY",
+            "seed": "97e9e092241e8beea9c687f7859bb2f685fdc68a0e098a2fd53f0d8c8570bcf463143d2e8451f1fd69bbb49f68a24c64ba620b4bbf5a3c40c560fe9f03d83551"
+        },
+        {
+            "language": "japanese",
+            "entropy": "78a5c98658ce8221a2ccc113385e345e47230ed7307c749a3bdda52a1c681f51",
+            "mnemonic": "せんえい　かんしゃ　しあさって　にっき　むげん　いれもの　だっこ　ついたち　うくらいな　はそん　だむる　のきなみ　すめし　たいやき　さとう　いもり　せきゆ　ふいうち　りかい　けんめい　てみじか　きつつき　そうだん　かまぼこ",
+            "passphrase": "cKOIotSxAwDwhMq",
+            "seed": "730568f298faa62bfa4994391422ee7fbe0d975781d1f7b0de1c24cbefb242adbb84d5082bcd0acca334db0f5979b93254263bb3e05741cc0aa68e5a337eda17"
+        },
+        {
+            "language": "korean",
+            "entropy": "f4ff72ff40c87018450e2233cba7ec97",
+            "mnemonic": "행복 환율 제목 씨름 야옹 경찰 관습 주관적 도중 사건 환갑 대답",
+            "passphrase": "ioZZhfzveDaYb",
+            "seed": "e9e3d7c38b9d77d949413ef63251929399228feb4f4edefc4efb90017b78dbef8376bec2e89a0f9bb41f4c0e1bb046fc54822c1b3cd5c443548098ed935da934"
+        },
+        {
+            "language": "portuguese",
+            "entropy": "4c5fc354364e41c00c90bd7189b079ec253fdd88",
+            "mnemonic": "dever vontade rotina fragata sumir solda casaco asilado gasoduto diluente baixista salsicha elenco trabalho batom",
+            "passphrase": "jBgZPZr",
+            "seed": "8e2e74ac697d12a1446caabc7de2bf303eef8fc4878514db60c1e6ac18c18944d92fdd16a801c9a63fb2a2287c5c5b78c03429a01956ae66dec958c8828173d3"
+        },
+        {
+            "language": "spanish",
+            "entropy": "6e0d58330770b162cada7929a1524451bffd563a346383b4",
+            "mnemonic": "horno hebra ancla año amante perro cariño escolar caña altura moción onza zumo parar titán memoria lomo opinar",
+            "passphrase": "lNqvonIrKiPVa",
+            "seed": "106ac3f2c23906d87580d3d06843a10434b15353aa80da1fd7e6966cfe7a24050783356ca6fe9cffd6a07b0811e9c493a1fb5ac2ee95b02e974552a9caf4da1c"
+        },
+        {
+            "language": "unknown",
+            "entropy": "",
+            "mnemonic": "威 노란색 道 唯 旁 fajfka komora 高 menino inicio meta defesa 통증 便 idylka processo tienda venato réticule rouille certo",
+            "passphrase": "r",
+            "seed": "d1f4a77f3d43aa03781263fbed07c3e35ea31031bc26c29288754bcc2634b22b5945f66fd6da2ae0e895d6f775cffda23b06a03b9341e14eb32ed7c5fff709eb"
+        },
+        {
+            "language": "english",
+            "entropy": "a9aac0999b3db9dd4a31a063ff30e7ed260940f3644d3425f1cef5ad28ffbb0b",
+            "mnemonic": "predict figure chapter cushion swear upgrade churn cross glue wet delay surge gauge parrot snow meadow crouch convince inhale twice spoon lemon umbrella juice",
+            "passphrase": "UAdn",
+            "seed": "3caa7ce4b3f15231d49e77f987fe0bcfb2bd3615de3fc4a2288596381c722a7c0ed8c7b87fd4c12e5da73bb6a62d841ffa68d2044a6c4c4d8abb36bb75d3e869"
+        }
+    ],
+    "invalid_mnemonic": [
+        "rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm",
+        "rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm",
+        "rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm",
+        "rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm",
+        "rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm rhythm"
+
+    ]
+}

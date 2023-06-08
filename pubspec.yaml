@@ -1,13 +1,18 @@
 name: dart_mnemonic
-description: A new Flutter package project.
+description: Reference implementation of BIP-0039 for the Dart language.
 version: 0.0.1
-homepage:
+homepage: https://github.com/CrystalNetwork/dart_mnemonic
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
+  pointycastle: ^3.7.3
+  unorm_dart: ^0.2.0
+  convert: ^3.1.1
+  crypto: ^3.0.3
+  hex: ^0.2.0
   flutter:
     sdk: flutter
 
