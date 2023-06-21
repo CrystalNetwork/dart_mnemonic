@@ -1,3 +1,7 @@
+## 0.0.6
+
+* Export Language
+
 ## 0.0.5
 
 * Improve API documentation

@@ -7,6 +7,8 @@ import 'package:hex/hex.dart';
 import 'src/language.dart';
 import 'src/dart_mnemonic_base.dart';
 
+export 'src/language.dart' show Language;
+
 class Mnemonic {
   /// valid mnemonic words length: 12, 15, 18, 21, 24
   static const validLength = [12, 15, 18, 21, 24];
