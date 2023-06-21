@@ -9,6 +9,7 @@ import 'language.dart';
 import 'pbkdf2.dart';
 
 /// This function is used to convert bytes to binary.
+///
 /// It is used to convert entropy bytes to binary and
 /// to convert the sha256 hash of the entropy to binary.
 String bytesToBinary(Uint8List bytes) {
@@ -16,18 +17,21 @@ String bytesToBinary(Uint8List bytes) {
 }
 
 /// This function is used to  hex string to bytes.
+///
 /// It is used to convert entropy hex string to bytes.
 Uint8List hexToBytes(String hex) {
   return Uint8List.fromList(HEX.decode(hex));
 }
 
 /// This function is used to convert binary to int.
+///
 /// It is used to convert the sha256 hash of the entropy to int.
 int binaryToInt(String binary) {
   return int.parse(binary, radix: 2);
 }
 
 /// This function is used to generate entropy.
+///
 /// It is used to generate entropy for the mnemonic.
 Uint8List generateEntropy(int strength) {
   final rng = Random.secure();
@@ -38,7 +42,8 @@ Uint8List generateEntropy(int strength) {
   return bytes;
 }
 
-/// This function is used to get entropy checksum
+/// This function is used to get entropy checksum.
+///
 /// It is used to get the checksum of the entropy.
 String entropyChecksum(Uint8List entropy) {
   final entropyLength = entropy.length * 8;
@@ -86,6 +91,7 @@ Uint8List mnemonicToSeed(String sentence, {String passphrase = ''}) {
 }
 
 /// This function is used to check mnemonic list language.
+///
 /// If the mnemonic list is not in any language, it will return unknown.
 /// If the mnemonic list is in more than one language, it will return unknown.
 Language mnemonicLanguage(List<String> mnemonic) {

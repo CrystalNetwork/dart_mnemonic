@@ -1,3 +1,7 @@
+## 0.0.5
+
+* Improve API documentation
+
 ## 0.0.4
 
 * Add api documentation

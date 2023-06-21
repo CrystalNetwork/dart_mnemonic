@@ -12,9 +12,11 @@ import 'package:pointycastle/macs/hmac.dart';
 /// a derived key.
 class PBKDF2 {
   final int blockLength;
-  // the number of iterations desired
+
+  /// the number of iterations desired
   final int iterationCount;
-  // the desired bit-length of the derived key
+
+  /// the desired bit-length of the derived key
   final int desiredKeyLength;
   final String saltPrefix = "mnemonic";
 
